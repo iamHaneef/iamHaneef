@@ -8,11 +8,11 @@ Welcome to my GitHub! I’m a passionate developer on a journey of turning ideas
 <tr>
 <td>
 
-## Hey! I'm  Muhamad Haneef J
+## Hi! I'm Haneef 
 
 #### Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
 
-##### Innovator, Learner & Problem Solver 
+##### Fail → Learn → Rise 
 
 </td>
 <td>

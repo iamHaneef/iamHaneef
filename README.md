@@ -38,7 +38,7 @@
 
 ---
 
-> ##  My Coding Arsenal ( My Developer Toolkit )  !!
+ ##  My Coding Arsenal ( My Toolkit )  !!
 
 
 

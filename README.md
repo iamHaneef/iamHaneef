@@ -48,7 +48,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="500" />
 
 > LEETCODE STATS
-![LeetCode Stats](https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="500" />
+
 
 <table>
   <tr>
@@ -58,8 +59,17 @@
     <td>
       <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="350" />
     </td>
-    <td>
+    
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&layout=compact&hide_border=true" width="350" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="350" />
     </td>
   </tr>
 </table>

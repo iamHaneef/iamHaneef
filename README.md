@@ -38,6 +38,18 @@
 
 ---
 
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500">
+
+</div>
+
 > MY PROFILE STATS
 <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="500" />
 

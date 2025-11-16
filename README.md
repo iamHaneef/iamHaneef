@@ -2,7 +2,7 @@
 
 Full Stack Developer | MERN & Java Enthusiast | Problem Solver
 
-<img align="right" width="350" height="300" src="https://media2.giphy.com/media/lRpvmChZEteVIFgQtV/giphy.gif" />
+<img align="right" width="350" height="200" src="https://media2.giphy.com/media/lRpvmChZEteVIFgQtV/giphy.gif" />
 
 
 🔭 Currently working on: Personal projects & full-stack applications

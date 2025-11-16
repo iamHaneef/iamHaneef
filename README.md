@@ -9,7 +9,7 @@ Code, learn, and grow — that’s my mantra. Dive in to see what I’m building
 <tr>
 <td>
 
-## Hi! I'm Haneef 
+## **Hi! I'm Haneef**
 
 #### Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
 

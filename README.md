@@ -52,6 +52,12 @@
 
 > APP DEVELOPMENT
 
+<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
+<img height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> 
+<img height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
+<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+
 
 > TOOLS
 

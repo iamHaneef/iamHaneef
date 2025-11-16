@@ -2,7 +2,6 @@
 
 Welcome to my GitHub! I’m a passionate developer on a journey of turning ideas into code, building projects, and exploring modern technologies and learning experiences.
 
-Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
 
 
 <table>
@@ -11,8 +10,7 @@ Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver
 
 ## Hey! I'm  Muhamad Haneef J
 
-Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
-Currently building projects, improving DSA, and learning modern web technologies.
+#### Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
 
 </td>
 <td>

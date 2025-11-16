@@ -60,6 +60,11 @@
 
 > TOOLS
 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
+<img height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> 
+<img height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+
+
 ---
 
 </div>

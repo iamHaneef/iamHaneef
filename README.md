@@ -24,37 +24,18 @@
 
 
 
-`Currently building: Crafting full-stack applications & tackling real-world problems` 🚀
-~~Always learning: Leveling up DSA, exploring AI, and mastering modern web technologies~~ 🌐
+🔭 Currently building: Crafting full-stack applications & tackling real-world problems  
 
-> Education & Work: Final-year BE in Computer Science | Passionate about creating impactful software solutions 🎓
+💻 Always learning: Leveling up DSA, exploring AI, and mastering modern web technologies 
 
-1. Fun Fact: Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities
-2. Connect with me: [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](#)
+🎓 Education & Work: Final-year BE in Computer Science | Passionate about creating impactful software solutions 
 
+☕ Fun Fact: Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities
 
-- Connect with me: [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](#)
-- Connect with me: [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](#)
+🚀 Connect with me: [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](#) 
 
 
 ---
-
-- [x] Education & Work: Final-year BE in Computer Science | Passionate about creating impactful software solutions 🎓
-
-- [ ] Fun Fact: Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities
-
-Connect with me ==LinkedIn==
-
-| 🔹 Topic | Details |
-| -------- | ------- |
-| 🔭 Currently building | Crafting full-stack applications & tackling real-world problems 🚀 |
-| 🌱 Always learning | Leveling up DSA, exploring AI, and mastering modern web technologies 🌐 |
-| 💼 Education & Work | Final-year BE in Computer Science | Passionate about creating impactful software solutions 🎓 |
-| ⚡ Fun Fact | Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities |
-| 📫 Connect with me | [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](#) |
-
-
-
 
 
 ### I code in

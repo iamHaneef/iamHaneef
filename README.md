@@ -37,6 +37,11 @@
 🚀 **Connect with me:** [Portfolio](https://haneefweb.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/haneef-j/) | [LeetCode](https://leetcode.com/u/Haneef-25_/)
 
 ---
+
+![GitHub Stats](https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true)
+
+---
+
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###

@@ -40,20 +40,25 @@
 
  ##  My Coding Arsenal ( My Toolkit )  !!
 
+> Front-End
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
 
 
+> Back-End
 
----
+>  Programming Language
 
-<div align="center">
 
-### 🎨 Frontend
+> App Development
 
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4">
 
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500">
+> Tools
 
 ---
 

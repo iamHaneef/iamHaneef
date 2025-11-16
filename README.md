@@ -78,8 +78,9 @@
 > ### MOST USED LANGUAGES – Languages I use most in my projects, visualized for quick overview.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="550" />
 
+
 > ### STREAK ACTIVITY – My current streak and consistency in contributing to open-source projects.
-<img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="550" />
+<img src="https://streak-stats.demolab.com?user=iamHaneef&theme=blueberry&hide_border=true" width="550" />
 
 
 > ### LEETCODE STATS – My problem-solving and algorithm practice progress.

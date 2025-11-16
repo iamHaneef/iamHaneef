@@ -40,6 +40,8 @@
 
 > MY PROFILE STATS
 
+<img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="500" />
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 > STREAK ACTIVITY

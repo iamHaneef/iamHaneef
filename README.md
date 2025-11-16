@@ -51,8 +51,6 @@
 
 > ##  PROGRAMMING LANGUAGE
 
-
-
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 > ## APP DEVELOPMENT
@@ -75,16 +73,16 @@
 </div>
 
 > ### MY PROFILE STATS
-<img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="600" height="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="650" height="300" />
 
 > ### STREAK ACTIVITY
-<img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="900" height="500" />
+<img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="650" height="300" />
 
 > ### MOST USED LANGUAGES
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="900" height="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="650" height="300" />
 
 > ### LEETCODE STATS
-<img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="900" height="500" />
+<img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="650" height="300" />
 
 
 

@@ -41,7 +41,7 @@
 
 - [x] Education & Work: Final-year BE in Computer Science | Passionate about creating impactful software solutions 🎓
 
-- [] Fun Fact: Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities
+- [ ] Fun Fact: Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities
 
 Connect with me: ==[LinkedIn]==
 

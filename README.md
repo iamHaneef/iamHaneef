@@ -47,6 +47,8 @@
 > MOST USED LANGUAGES
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="500" />
 
+> LEETCODE STATS
+![LeetCode Stats](https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap)
 
 <table>
   <tr>

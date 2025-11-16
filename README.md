@@ -63,36 +63,36 @@
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamHaneef&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamHaneef&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamHaneef&theme=radical&hide_border=false" />
 </div>
 
 <div align="center">
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=iamHaneef&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/iamHaneef?style=for-the-badge&color=ff69b4" alt="Followers"/>
 
 <p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
 

@@ -45,10 +45,22 @@
 <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="500" />
 
 > MOST USED LANGUAGES
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="500" />
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="350" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="350" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&layout=compact&hide_border=true" width="350" />
+    </td>
+  </tr>
+</table>
 
 
 ---

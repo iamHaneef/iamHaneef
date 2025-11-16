@@ -1,14 +1,17 @@
-👋 Hi there! I'm Muhamad Haneef J
+🚀 Hello Creators, 
 
-Full Stack Developer | MERN & Java Enthusiast | Problem Solver
+Welcome to my GitHub! I’m a passionate developer on a journey of turning ideas into code, building projects, and exploring modern technologies and learning experiences.
+
+Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
+
 
 <table>
 <tr>
 <td>
 
-## Hi there 👋 I'm Muhamad Haneef J
+## Hey! I'm  Muhamad Haneef J
 
-I am a Full Stack Developer | MERN & Java Enthusiast.  
+Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
 Currently building projects, improving DSA, and learning modern web technologies.
 
 </td>

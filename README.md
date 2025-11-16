@@ -38,8 +38,8 @@
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 
 

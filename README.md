@@ -55,7 +55,7 @@
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
+  <img src="https://profile-counter.glitch.me/iamHaneef/count.svg" />
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 

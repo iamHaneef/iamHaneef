@@ -70,7 +70,19 @@
 
 ---
 
-</div>
+🚀 My GitHub Stats
+
+Profile Stats – Summary of my contributions, repositories, and overall activity.
+<img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="500" />
+
+Streak Activity – My current streak and consistency in contributing to open-source projects.
+<img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="500" />
+
+Most Used Languages – Languages I use most in my projects, visualized for quick overview.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="500" />
+
+LeetCode Stats – My problem-solving and algorithm practice progress.
+<img src="https://leetcard.jacoblin.cool/iamHaneef?theme=dark" width="500" />
 
 > ### MY PROFILE STATS
 <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="550" />

@@ -43,7 +43,7 @@
 
 - [ ] Fun Fact: Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities
 
-Connect with me: ==[LinkedIn]==
+Connect with me ==LinkedIn==
 
 | 🔹 Topic | Details |
 | -------- | ------- |

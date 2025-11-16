@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m a passionate developer on a journey of turning ideas
 
 ## Hi! I'm Haneef
 
-#### Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
+#### Full Stack Developer | MERN & Java Enthusiast | Innovator, Learner & Problem Solver 
 
 ##### Fail → Learn → Rise 
 

@@ -79,7 +79,7 @@
 <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=midnight-purple&hide_border=true" width="650" height="300" />
 
 > ### MOST USED LANGUAGES
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="750" height="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="950" height="300" />
 
 > ### LEETCODE STATS
 <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="650" height="300" />

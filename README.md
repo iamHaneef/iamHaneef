@@ -37,12 +37,12 @@
 🚀 **Connect with me:** [Portfolio](https://haneefweb.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/haneef-j/) | [LeetCode](https://leetcode.com/u/Haneef-25_/)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 
 <table>
 <tr>
 <td>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 </td>
 <td>

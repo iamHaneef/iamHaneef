@@ -17,7 +17,8 @@ Welcome to my GitHub! I’m a passionate developer on a journey of turning ideas
 
 </td>
 <td>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG53NWpvamE3bHRvMnRid2ZkanZ3NDduaGwyaDc3aGNsZTRwdmdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" width="350" align="right">
+<img src="![Uploading image.png…]()
+" width="350" align="right">
 </td>
 </tr>
 </table>

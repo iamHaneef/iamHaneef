@@ -43,7 +43,7 @@
 
 > FRONT-END & BACK-END
 
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /> 
 
 
 >  PROGRAMMING LANGUAGE
@@ -55,8 +55,7 @@
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
 <img height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> 
 <img height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
 > TOOLS

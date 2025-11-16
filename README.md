@@ -38,25 +38,9 @@
 
 ---
 
-### Languages & Tools
+## LANGUAGES AND TOOLS I USED FOR CODE !!
 
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-<img height="50" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-<img height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+
 
 
 ---
@@ -70,6 +54,8 @@
 ### 💬 Languages
 
 <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500">
+
+---
 
 </div>
 
@@ -111,10 +97,6 @@
 
 
 ---
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> </p>
 
 
 ### I code in

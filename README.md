@@ -34,7 +34,7 @@
 
 ✨ **Fun Fact:** Make mistakes, try to learn from them, never repeat them, and turn failures into opportunities
 
-🚀 **Connect with me:** [Portfolio](https://haneefweb.netlify.app/) | [LinkedIn]((https://www.linkedin.com/in/haneef-j/)) | [LeetCode]((https://leetcode.com/u/Haneef-25_/)) 
+🚀 **Connect with me:** [Portfolio](https://haneefweb.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/haneef-j/) | [LeetCode](https://leetcode.com/u/Haneef-25_/)
 
 
 

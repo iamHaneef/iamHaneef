@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m a passionate developer on a journey of turning ideas
 
 </td>
 <td>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlod2FteDc2aWsxOGViZ2d6ZHd6czY1dm82ZmV0bWh5Mjk4N3RnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="350" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzZGJpcjF3Ync2M3J4YnZjNG8wOXozMXM2MjkyNXVoOG45ZzVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" align="right">
 </td>
 </tr>
 </table>

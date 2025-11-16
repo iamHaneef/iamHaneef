@@ -24,15 +24,18 @@
 
 
 
-🔭 Currently building: Crafting full-stack applications & tackling real-world problems  
+🔭 **Currently building:** Crafting full-stack applications & tackling real-world problems  
 
-💻 Always learning: Leveling up DSA, exploring AI, and mastering modern web technologies 
+💻 **Always learning:** Leveling up DSA, exploring AI, and mastering modern web technologies  
 
-🎓 Education & Work: Final-year BE in Computer Science | Passionate about creating impactful software solutions 
+🎓 **Education & Work:** Graduate BE in Computer Science | Passionate about creating impactful software solutions  
 
-☕ Fun Fact: Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities
+☕ **Ideology:** Fueled by code, coffee, and curiosity  
 
-🚀 Connect with me: [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](#) 
+✨ **Fun Fact:** Make mistakes, try to learn from them, never repeat them, and turn failures into opportunities
+
+🚀 **Connect with me:** [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](#)
+
 
 
 ---

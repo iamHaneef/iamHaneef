@@ -38,7 +38,7 @@
 
 ---
 
-## LANGUAGES AND TOOLS I USED FOR CODE !!
+## Languages And Tools I Code In !!
 
 
 

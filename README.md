@@ -24,17 +24,16 @@
 
 
 
-🔭 Currently working on: Personal projects & full-stack applications
+🔭 Currently building: Crafting full-stack applications & tackling real-world problems 🚀
 
-🌱 Learning & Improving: Advanced DSA, AI integration, and modern web technologies
+🌱 Always learning: Leveling up DSA, exploring AI, and mastering modern web technologies 🌐
 
-💼 Education / Work: Final-year BE in Computer Science, focused on software & web development
+💼 Education & Work: Final-year BE in Computer Science | Passionate about creating impactful software solutions 🎓
 
-⚡ Fun Fact: I’m all about coding, coffee, and solving real-world problems
+⚡ Fun Fact: Fueled by code, coffee, and curiosity ☕💻 | I turn challenges into opportunities
 
-📫 Reach Me At: LinkedIn
- | Twitter
- | Portfolio
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](#)
+
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />

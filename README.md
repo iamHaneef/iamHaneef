@@ -2,14 +2,14 @@
 
 Welcome to my GitHub! I’m a passionate developer on a journey of turning ideas into code, building projects, and exploring modern technologies and learning experiences.
 
-Code, learn, and grow — that’s my mantra. Dive in to see what I’m building!
+**Code, learn, and grow — that’s my mantra.** Dive in to see what I’m building!
 
 
 <table>
 <tr>
 <td>
 
-## **Hi! I'm Haneef**
+## Hi! I'm Haneef
 
 #### Full Stack Developer | MERN & Java | Innovator, Learner & Problem Solver 
 

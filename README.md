@@ -24,7 +24,9 @@
 
 </td>
 <td>
-<img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="350" align="right">
+  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/80e35b3e-164b-4d92-a9f8-6b0801a705e9" width="350" align="right"/>
+
+
 </td>
 </tr>
 </table>

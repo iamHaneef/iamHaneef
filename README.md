@@ -10,9 +10,7 @@
 > **Code, learn, and grow — that’s my mantra.** Dive in to see what I’m building!
 
 
-<table>
-<tr>
-<td>
+
 
 ## Hi! I'm Haneef
 
@@ -20,12 +18,9 @@
 
 ##### Fail → Learn → Rise 
 
-</td>
-<td>
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdncnp1c2djYTNoY2p1YzNhODQxb2E3bHI1dTVpdmI5c2xlejY5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AIdGhVzDyXioKnLya7/giphy.gif" width="350" align="right">
-</td>
-</tr>
-</table>
+
 
 
 

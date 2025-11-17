@@ -16,9 +16,9 @@
 <tr>
 <td>
 
-## Hi! I'm Haneef
+# Hi! I'm Haneef
 
-#### Full Stack Developer | MERN & Java Enthusiast | Innovator, Learner & Problem Solver 
+### Full Stack Developer | MERN & Java Enthusiast | Innovator, Learner & Problem Solver 
 
 ##### Fail → Learn → Rise 
 

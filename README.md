@@ -1,4 +1,4 @@
-<img width="2000" height="600" alt="White Minimalist Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/d87a19b8-42f7-42e3-b1ea-c506cfc5c683" />
+<img width="2000" height="600" alt="Black Grey Sleek Scrapbook General Linkedin Banner" src="https://github.com/user-attachments/assets/4dea535c-649f-4a73-a2b2-de331cdbe450" />
 
 <br>  <!-- SPACE ADDED HERE -->
 

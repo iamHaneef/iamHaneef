@@ -1,6 +1,3 @@
-[![Haneef's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamHaneef)](https://github.com/iamHaneef/github-readme-stats)
-
-
 <img width="2000" height="600" alt="Black Grey Sleek Scrapbook General Linkedin Banner" src="https://github.com/user-attachments/assets/4dea535c-649f-4a73-a2b2-de331cdbe450" />
 
 <br>  <!-- SPACE ADDED HERE -->
@@ -81,7 +78,7 @@
 ---
 
 ## 📈 My GitHub Stats 🚀
-
+```
 > ### MY PROFILE STATS - Summary of my contributions, repositories, and overall activity.
 <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="550" />
 
@@ -90,7 +87,7 @@
 
 > ### LEETCODE STATS – My problem-solving and algorithm practice progress.
 <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="550" />
-
+```
 ---
 
 

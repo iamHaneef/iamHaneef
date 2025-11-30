@@ -76,20 +76,11 @@
 
 
 ---
-<detail>
-  
-``` ## 📈 My GitHub Stats 🚀
-
-> ### MY PROFILE STATS - Summary of my contributions, repositories, and overall activity.
-<img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="550" />
-
-> ### MOST USED LANGUAGES – Languages I use most in my projects, visualized for quick overview.
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="550" />
+## 📈 My GitHub Stats 🚀
 
 > ### LEETCODE STATS – My problem-solving and algorithm practice progress.
 <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="550" />
-```
-</detail>
+
 ---
 
 

@@ -77,8 +77,8 @@
 
 ---
 
-## 📈 My GitHub Stats 🚀
-```
+``` ## 📈 My GitHub Stats 🚀
+
 > ### MY PROFILE STATS - Summary of my contributions, repositories, and overall activity.
 <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="550" />
 

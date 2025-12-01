@@ -1,3 +1,5 @@
+![Github Stats](https://greptile-stats.vercel.app/api/widget/iamHaneef/stats)
+
 <img width="2000" height="600" alt="Black Grey Sleek Scrapbook General Linkedin Banner" src="https://github.com/user-attachments/assets/4dea535c-649f-4a73-a2b2-de331cdbe450" />
 
 <br>  <!-- SPACE ADDED HERE -->

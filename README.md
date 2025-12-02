@@ -79,7 +79,13 @@
 ## 📈 My GitHub Stats 🚀
 
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card" width="550" />
+<a href="https://git.io/awesome-stats-card">
+  <img 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=github&theme=github-dark&preferLogin=false" 
+    width="550"
+  />
+</a>
+
 
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/iamHaneef/stats)

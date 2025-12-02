@@ -78,7 +78,7 @@
 ---
 ## 📈 My GitHub Stats 🚀
 
-### GITHUB STATS – My coding activity, contributions, and open-source journey.
+> ### GITHUB STATS – My coding activity, contributions, and open-source journey.
 
 
 <a href="https://git.io/awesome-stats-card">
@@ -95,7 +95,9 @@
 > ### LEETCODE STATS – My problem-solving and algorithm practice progress.
 <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="550" />
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/iamHaneef/stats)
+<img src="https://greptile-stats.vercel.app/api/widget/iamHaneef/stats" width="550" />
+
+![Github Stats]()
 
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/iamHaneef/contributions)
 

@@ -82,7 +82,7 @@
 <a href="https://git.io/awesome-stats-card">
   <img 
     src="https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=github&theme=github-dark&preferLogin=false" 
-    width="550"
+    width="600"
   />
 </a>
 
@@ -92,7 +92,7 @@
 
 
 > ### LEETCODE STATS – My problem-solving and algorithm practice progress.
-<img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="650" />
+<img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="550" />
 
 ---
 

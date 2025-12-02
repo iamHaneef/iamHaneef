@@ -1,5 +1,3 @@
-![Github Stats](https://greptile-stats.vercel.app/api/widget/iamHaneef/stats)
-
 <img width="2000" height="600" alt="Black Grey Sleek Scrapbook General Linkedin Banner" src="https://github.com/user-attachments/assets/4dea535c-649f-4a73-a2b2-de331cdbe450" />
 
 <br>  <!-- SPACE ADDED HERE -->
@@ -79,6 +77,9 @@
 
 ---
 ## 📈 My GitHub Stats 🚀
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=octocat&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/iamHaneef/stats)
 
 
 > ### LEETCODE STATS – My problem-solving and algorithm practice progress.

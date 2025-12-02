@@ -82,7 +82,7 @@
 <a href="https://git.io/awesome-stats-card">
   <img 
     src="https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=github&theme=github-dark&preferLogin=false" 
-    width="600"
+    width="550"
   />
 </a>
 

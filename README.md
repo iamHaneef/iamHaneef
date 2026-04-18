@@ -64,18 +64,24 @@
 
 
 
-> ##  PROGRAMMING LANGUAGE
+## PROGRAMMING LANGUAGE
 
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> 
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" style="margin-right:20px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="margin-right:20px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
+</p>
 
 <!--<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />--->
 
-> ## APP DEVELOPMENT
+## APP DEVELOPMENT
 
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
-<img height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> 
-<img height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" style="margin-right:20px;"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" style="margin-right:20px;"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" style="margin-right:20px;"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+</p>
 
 
 > ## TOOLS

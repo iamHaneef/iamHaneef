@@ -66,7 +66,7 @@ Java-based system for order management, billing, and reservations
 
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=github&theme=github-dark&preferLogin=false" width="47%" height="190px"/>
-  <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Buhid" width="43%" height="200px"/>
+  <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Buhid" width="47%" height="200px"/>
 </div>
 
 ---

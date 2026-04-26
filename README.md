@@ -4,7 +4,7 @@
 
 # ◆ Haneef — Full Stack Developer
 
-## Building scalable web applications using the MERN stack and Java-based backend systems.
+### Building scalable web applications using the MERN stack and Java-based backend systems.
 
 ---
 

@@ -2,9 +2,9 @@
 
 ---
 
-# Haneef — Full Stack Developer
+# ◆ Haneef — Full Stack Developer
 
-Building scalable web applications using the MERN stack and Java-based backend systems.
+## Building scalable web applications using the MERN stack and Java-based backend systems.
 
 ---
 
@@ -33,6 +33,11 @@ Java-based system for order management, billing, and reservations
 ---
 
 ## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,8 +74,7 @@ Java-based system for order management, billing, and reservations
 ---
 
 ## 🔗 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haneefweb.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://haneefweb.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneef-j/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Haneef-25_/)
 

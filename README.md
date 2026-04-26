@@ -68,7 +68,7 @@ Java-based system for order management, billing, and reservations
 ---
 
 ## 🧠 Problem Solving
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Buhid)
 <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="500" />
 
 ---

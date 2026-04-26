@@ -66,7 +66,7 @@ Java-based system for order management, billing, and reservations
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="47%" />
-  <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Buhid" width="47%" height="630px"/>
+  <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Buhid" width="47%" />
 </div>
 
 ---

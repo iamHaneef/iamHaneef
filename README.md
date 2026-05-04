@@ -63,6 +63,7 @@ Java-based system for order management, billing, and reservations
 ---
 
 ## 📊 Coding Activity
+![iamHaneef's GitHub Stats](https://readme-stats-github.pages.dev/api?username=iamHaneef&theme=dark)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="505" />  -->
 <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=github&theme=github-dark&preferLogin=false" width="500" /> --->
 

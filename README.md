@@ -71,7 +71,8 @@ Java-based system for order management, billing, and reservations
 
 ## 🧩 Algorithm Practice
 
-<img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Buhid" width="505" />
+<img src="https://www.readmecodegen.com/api/leetcode-stats/Haneef-25_?theme=dark&acceptance=false&reputation=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal" width="505" />
+<!-- <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Buhid" width="505" /> -->
 <!-- <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Ugaritic&ext=heatmap" width="500" /> -->
 
 ---

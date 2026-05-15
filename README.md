@@ -10,24 +10,24 @@
 
 ## 🚀 Featured Projects
 
-### 💬 Real-Time Chat Application  
+### 🛰️ Real-Time Chat Application  
 Full-stack chat platform with authentication, user search, and real-time messaging  
 🔗 https://chat-cafe.netlify.app  
 
 ---
 
-### 📄 Resume Builder  
+### 🧾 Resume Builder  
 Dynamic resume generator with structured input and live preview  
 🔗 https://carriercatalysttool.netlify.app  
 
 ---
 
-### 📊 Python Data Apps Lab  
+### 📈 Python Data Apps Lab  
 Interactive data-driven applications using Streamlit with Snowflake  
 
 ---
 
-### 🍽️ Restaurant Management System  
+### 🏪 Restaurant Management System  
 Java-based system for order management, billing, and reservations  
 
 ---

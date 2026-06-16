@@ -66,9 +66,8 @@ Java-based system for order management, billing, and reservations
 <img src="https://readme-stats-github.pages.dev/api?username=iamHaneef&theme=dark" width="505" /><!-- <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="505" />  -->
 <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=github&theme=github-dark&preferLogin=false" width="500" /> --->
 
----
 
-## 🧩 Algorithm Practice
+<!--## 🧩 Algorithm Practice>
 
 <img src="https://www.readmecodegen.com/api/leetcode-stats/Haneef-25_?theme=dark&acceptance=false&reputation=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal" width="505" />
 <!-- <img src="https://leetcard.jacoblin.cool/Haneef-25_?theme=dark&font=Noto%20Sans%20Buhid" width="505" /> -->

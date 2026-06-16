@@ -59,8 +59,6 @@ Java-based system for order management, billing, and reservations
 
 ---
 
----
-
 ## 🎯 Development Activity
 
 <img src="https://readme-stats-github.pages.dev/api?username=iamHaneef&theme=dark" width="505" /><!-- <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="505" />  -->

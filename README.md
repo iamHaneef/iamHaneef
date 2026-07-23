@@ -57,11 +57,11 @@ Java-based system for order management, billing, and reservations
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<!-- ## 🎯 Development Activity -->
 
-## 🎯 Development Activity
 
-<img src="https://readme-stats-github.pages.dev/api?username=iamHaneef&theme=dark" width="505" /><!-- <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="505" />  -->
+<!-- <img src="https://readme-stats-github.pages.dev/api?username=iamHaneef&theme=dark" width="505" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="505" />  -->
 <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/iamHaneef?cardType=github&theme=github-dark&preferLogin=false" width="500" /> --->
 
 

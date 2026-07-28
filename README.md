@@ -1,9 +1,8 @@
 <img width="100%" src="https://github.com/user-attachments/assets/4dea535c-649f-4a73-a2b2-de331cdbe450" />
 
 <h1 align="center">
-&lt;/&gt; Hi, I'm Haneef
+&lt;Hi, I'm Haneef /&gt;
 </h1>
-
 <h3 align="center">
 Full Stack Developer • MERN Stack • Java • AI Applications
 </h3>

@@ -1,7 +1,7 @@
 <img width="100%" src="https://github.com/user-attachments/assets/4dea535c-649f-4a73-a2b2-de331cdbe450" />
 
 <h1 align="center">
-Hi 👋 I'm Haneef
+&lt;/&gt; Hi, I'm Haneef
 </h1>
 
 <h3 align="center">

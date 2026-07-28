@@ -215,13 +215,9 @@ Currently exploring:
 ---
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my GitHub Profile!
-
 </h3>
 
 <p align="center">
-
 <i>"Every project is an opportunity to learn, improve, and build something meaningful."</i>
-
 </p>

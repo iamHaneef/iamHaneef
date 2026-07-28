@@ -214,10 +214,12 @@ Currently exploring:
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my GitHub Profile!
-</h3>
+<h3 align="center">⭐ Thanks for visiting my GitHub Profile!</h3>
 
 <p align="center">
-<i>"Every project is an opportunity to learn, improve, and build something meaningful."</i>
+<i>"Success isn't built overnight—it's built one project, one bug fix, and one lesson at a time."</i>
+</p>
+
+<p align="center">
+📚 Study Hard • 💻 Work Smart • 🚀 Build Better
 </p>

@@ -113,9 +113,9 @@ I continuously improve my skills by building complete projects that combine clea
 
 </p>
 
----
+<!-- --- -->
 
-# 📊 GitHub Statistics
+<!-- # 📊 GitHub Statistics
 
 <p align="center">
 
@@ -123,7 +123,7 @@ I continuously improve my skills by building complete projects that combine clea
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 

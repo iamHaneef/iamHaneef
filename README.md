@@ -193,26 +193,6 @@ Currently exploring:
 
 ---
 
-# 🔗 Let's Connect
-
-<p align="center">
-
-<a href="https://haneefweb.netlify.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/haneef-j/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://leetcode.com/u/Haneef-25_/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
-</p>
-
----
-
 <h3 align="center">⭐ Thanks for visiting my GitHub Profile!</h3>
 
 <p align="center">

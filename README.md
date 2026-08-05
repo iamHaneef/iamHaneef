@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/user-attachments/assets/4dea535c-649f-4a73-a2b2-de331cdbe450" />
+<img width="100%" src="./assets/banner.png" />
 
 <h1 align="center">
 &lt; Hi, I'm Haneef  /&gt;

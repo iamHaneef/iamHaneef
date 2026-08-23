@@ -8,7 +8,7 @@ Full Stack Developer • MERN Stack • Java • AI Applications
 </h3>
 
 <p align="center">
-Building production-ready web applications with clean architecture, real-time systems, cloud technologies, and modern user experience
+Building production-ready web applications with clean architecture, real-time systems, cloud technologies, and modern user experience.
 </p>
 
 <p align="center">

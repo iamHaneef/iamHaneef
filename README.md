@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/banner.png" />
+<img width="100%" src="./assets/Haneef Banner.png" />
 
 <h1 align="center">
 &lt; Hi, I'm Haneef  /&gt;

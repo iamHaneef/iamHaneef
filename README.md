@@ -4,7 +4,7 @@
 &lt; Hi, I'm Haneef  /&gt;
 </h1>
 <h3 align="center">
-Full Stack Developer • MERN Stack • Java • AI Applications
+Full Stack Developer • MERN Stack • Java • AI Application
 </h3>
 
 <p align="center">

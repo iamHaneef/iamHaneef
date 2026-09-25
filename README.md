@@ -1,197 +1,324 @@
 <img width="100%" src="./assets/Explore.png" />
 
 <h1 align="center">
-&lt; Hi, I'm Haneef  /&gt;
+  &lt; Hi, I'm Haneef /&gt;
 </h1>
-<h3 align="center">
-Full Stack Developer • MERN Stack • Java • AI Applications.
-</h3>
 
 <p align="center">
-Building production-ready web applications with clean architecture, real-time systems, cloud technologies, and modern user experiences.
+  <strong>Full Stack Developer • MERN • Java • AI Applications</strong>
 </p>
 
 <p align="center">
+  I build full-stack applications with a focus on clean architecture,
+  real-time systems, AI integrations, responsive interfaces, and reliable backend services.
+</p>
 
-<a href="https://haneefweb.netlify.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111?style=for-the-badge">
-</a>
+<p align="center">
+  <a href="https://haneefweb.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haneef-j/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Haneef-25_/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/haneef-j/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://leetcode.com/u/Haneef-25_/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamHaneef&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a Full Stack Developer passionate about transforming ideas into production-ready software.
+I'm a Full Stack Developer focused on building practical software that solves real problems.
 
-My primary interests include AI-powered applications, real-time communication systems, scalable backend development, and responsive frontend experiences.
+My journey started with frontend development and gradually expanded into backend engineering, databases, cloud services, real-time systems, and AI-powered applications.
 
-I enjoy solving real-world problems by combining clean architecture, intuitive user interfaces, secure authentication, and cloud-based technologies.
+I enjoy working across the entire application stack — from designing responsive interfaces and REST APIs to implementing authentication, database architecture, real-time communication, workflow automation, and deployment.
 
----
+### What I care about
 
-# 🚀 Currently Building
-
-- 🤖 AI-powered Applications
-- 💬 Real-Time Communication Platforms
-- ⚛️ MERN Stack Projects
-- ☁️ Cloud-Native Applications
-- 📱 Responsive Web Experiences
-- ☕ Java Backend Solutions
+- 🏗️ Clean and maintainable architecture
+- 🔐 Secure authentication and authorization
+- ⚡ Responsive and performant applications
+- 🤖 Practical AI integrations
+- ☁️ Cloud-based development and deployment
+- 🧩 Solving real-world problems through engineering
 
 ---
 
-# 🌟 Flagship Projects
+# 🚀 What I'm Building
 
-## 🤖 Aile - Mark 1
+<table>
+<tr>
+<td width="50%">
 
-A production-ready AI conversational assistant featuring secure authentication, persistent conversation history, and workflow automation powered by n8n.
+### 🤖 AI Applications
 
-**Tech Stack**
+Exploring AI-powered applications, LLM integrations, intelligent workflows, and automation using modern AI tools.
 
-`React` • `Express.js` • `MongoDB` • `JWT` • `n8n`
+</td>
 
-🌐 https://aile-mark-1.netlify.app
+<td width="50%">
+
+### 🌐 Full Stack Systems
+
+Building complete applications across frontend, backend, databases, authentication, APIs, and deployment.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☕ Java Backend
+
+Deepening Java fundamentals and progressing toward Spring Boot and scalable backend architecture.
+
+</td>
+
+<td width="50%">
+
+### 🧠 Engineering & DSA
+
+Strengthening problem-solving, data structures, algorithms, system design, and software architecture.
+
+</td>
+</tr>
+</table>
 
 ---
+
+# ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 Aile — Mark 1
+
+A full-stack AI conversation platform built around persistent conversations, authentication, and AI workflow automation.
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `n8n`
+
+<br>
+
+<a href="https://aile-mark-1.netlify.app">
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 💬 Chat Cafe
 
-A modern real-time messaging application with secure authentication, cloud synchronization, media sharing, and responsive chat experience.
+A real-time messaging application supporting authentication, persistent conversations, media sharing, cloud synchronization, and responsive chat experiences.
 
-**Tech Stack**
+**Stack**
 
-`React` • `Firebase Authentication` • `Cloud Firestore` • `Firebase Storage`
+`React` `Firebase Auth` `Firestore` `Firebase Storage`
 
-🌐 https://chat-cafe.netlify.app
+<br>
+
+<a href="https://chat-cafe.netlify.app">
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📄 Career Catalyst
+
+An interactive resume-building platform with dynamic forms, responsive layouts, and structured resume generation.
+
+**Stack**
+
+`HTML` `SCSS` `JavaScript`
+
+<br>
+
+<a href="https://carriercatalysttool.netlify.app">
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💱 Currency Converter
+
+An Android application focused on API integration, asynchronous networking, and mobile application development.
+
+**Stack**
+
+`Java` `Android` `OkHttp` `REST API`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📄 Career Resume Builder
+# 🛠️ Technical Stack
 
-An interactive resume creation platform with guided forms, responsive layouts, and structured resume generation.
-
-**Tech Stack**
-
-`HTML` • `SCSS` • `JavaScript`
-
-🌐 https://carriercatalysttool.netlify.app
-
----
-
-# 🛠️ Technology Stack
-
-## 💻 Languages
+### 💻 Languages
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+### ⚙️ Backend
 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-111111?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
 ---
 
-## 🎨 Frontend
+# 🧩 Engineering Focus
 
-<p>
+I'm particularly interested in understanding **how applications work beyond the UI**.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+### Frontend Engineering
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- Component-based architecture
+- State management
+- Responsive design
+- API integration
+- Authentication flows
+- Performance and usability
 
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+### Backend Engineering
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+- REST API design
+- Authentication & authorization
+- Database modeling
+- Error handling
+- API security
+- Scalable application structure
 
+### Systems & Infrastructure
+
+- Real-time communication
+- Cloud services
+- Workflow automation
+- Deployment
+- Git & GitHub workflows
+- Application architecture
+
+### Problem Solving
+
+- Data Structures & Algorithms
+- Pattern recognition
+- Complexity analysis
+- LeetCode problem solving
+- Debugging and root-cause analysis
+
+---
+
+# 📈 My Development Journey
+
+```text
+Frontend Development
+        ↓
+React & Modern Web Applications
+        ↓
+Firebase & Real-Time Systems
+        ↓
+Node.js & Express
+        ↓
+MongoDB & Full-Stack Architecture
+        ↓
+AI Applications & Workflow Automation
+        ↓
+Java Backend Development
+        ↓
+Spring Boot
+        ↓
+System Design & Scalable Architecture
+```
+
+The goal isn't simply to collect technologies.
+
+The goal is to understand how the pieces work together to build reliable software.
+
+---
+
+# 🎯 Currently Exploring
+
+- 🤖 AI-powered application architecture
+- 🔗 LLM integrations & workflow automation
+- ☕ Java backend development
+- 🌱 Spring Boot architecture
+- 🌐 RESTful API design
+- ☁️ Cloud deployment
+- 📐 System design fundamentals
+- 🧠 Advanced DSA & problem solving
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 </p>
 
 ---
 
-## ⚙️ Backend
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-
-</p>
-
----
-
-## 🗄️ Database & Cloud
-
-<p>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-
-</p>
-
----
-
-## 🧰 Development Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
-</p>
-
----
-
-# 🧩 Engineering Principles
-
-- Write clean, readable, and maintainable code.
-- Build responsive and accessible user interfaces.
-- Design scalable backend architectures.
-- Learn by building production-oriented software.
-- Solve real-world problems with simple and reliable solutions.
-
----
-
-# 📈 My Journey
-
-I began with HTML, CSS, and JavaScript before expanding into React, Firebase, Java, and full-stack MERN development.
-
-Today, my focus is on building AI-powered applications, cloud-native software, and production-ready web platforms while continuously improving backend architecture, software design, and engineering practices.
-
----
-
-# 🎯 Looking Ahead
-
-Currently exploring:
-
-- 🤖 AI Workflow Automation
-- 🧠 LLM Integrations
-- ⚡ Advanced MERN Architecture
-- ☁️ Cloud Deployment Strategies
-- 📊 Data Engineering Fundamentals
-- 🏗️ System Design
-
----
+# 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg" />
@@ -199,12 +326,30 @@ Currently exploring:
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my GitHub Profile!</h3>
+# 📫 Connect With Me
 
 <p align="center">
-<i>"Success isn't built overnight—it's built one project, one bug fix, and one lesson at a time."</i>
+
+<a href="https://haneefweb.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/haneef-j/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Haneef-25_/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Build. Break. Understand. Improve. Repeat.</strong>
 </p>
 
 <p align="center">
-📚 Study Hard • 💻 Work Smart • 🚀 Build Better
+  <i>Thanks for visiting my profile.</i>
 </p>

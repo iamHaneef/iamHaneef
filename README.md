@@ -50,48 +50,6 @@ I enjoy working across the entire application stack — from designing responsiv
 
 ---
 
-# 🚀 What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Applications
-
-Exploring AI-powered applications, LLM integrations, intelligent workflows, and automation using modern AI tools.
-
-</td>
-
-<td width="50%">
-
-### 🌐 Full Stack Systems
-
-Building complete applications across frontend, backend, databases, authentication, APIs, and deployment.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☕ Java Backend
-
-Deepening Java fundamentals and progressing toward Spring Boot and scalable backend architecture.
-
-</td>
-
-<td width="50%">
-
-### 🧠 Engineering & DSA
-
-Strengthening problem-solving, data structures, algorithms, system design, and software architecture.
-
-</td>
-</tr>
-</table>
-
----
-
 # ⭐ Featured Projects
 
 <table>

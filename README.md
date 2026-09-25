@@ -39,6 +39,57 @@ My journey started with frontend development and gradually expanded into backend
 
 I enjoy working across the entire application stack — from designing responsive interfaces and REST APIs to implementing authentication, database architecture, real-time communication, workflow automation, and deployment.
 
+### What I care about
+
+- 🏗️ Clean and maintainable architecture
+- 🔐 Secure authentication and authorization
+- ⚡ Responsive and performant applications
+- 🤖 Practical AI integrations
+- ☁️ Cloud-based development and deployment
+- 🧩 Solving real-world problems through engineering
+
+---
+
+# 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Applications
+
+Exploring AI-powered applications, LLM integrations, intelligent workflows, and automation using modern AI tools.
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full Stack Systems
+
+Building complete applications across frontend, backend, databases, authentication, APIs, and deployment.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☕ Java Backend
+
+Deepening Java fundamentals and progressing toward Spring Boot and scalable backend architecture.
+
+</td>
+
+<td width="50%">
+
+### 🧠 Engineering & DSA
+
+Strengthening problem-solving, data structures, algorithms, system design, and software architecture.
+
+</td>
+</tr>
+</table>
+
 ---
 
 # ⭐ Featured Projects
@@ -49,14 +100,16 @@ I enjoy working across the entire application stack — from designing responsiv
 
 ## 🤖 Aile — Mark 1
 
-AI conversation platform with persistent conversations, authentication, and workflow automation.
+A full-stack AI conversation platform built around persistent conversations, authentication, and AI workflow automation.
+
+**Stack**
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `n8n`
 
 <br>
 
 <a href="https://aile-mark-1.netlify.app">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -65,14 +118,16 @@ AI conversation platform with persistent conversations, authentication, and work
 
 ## 💬 Chat Cafe
 
-Real-time messaging platform with authentication, persistent chats, media sharing, and cloud synchronization.
+A real-time messaging application supporting authentication, persistent conversations, media sharing, cloud synchronization, and responsive chat experiences.
 
-`React` `Firebase` `Firestore` `Storage`
+**Stack**
+
+`React` `Firebase Auth` `Firestore` `Firebase Storage`
 
 <br>
 
 <a href="https://chat-cafe.netlify.app">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -83,31 +138,29 @@ Real-time messaging platform with authentication, persistent chats, media sharin
 
 ## 📄 Career Catalyst
 
-Interactive resume builder with dynamic forms and responsive resume generation.
+An interactive resume-building platform with dynamic forms, responsive layouts, and structured resume generation.
+
+**Stack**
 
 `HTML` `SCSS` `JavaScript`
 
 <br>
 
 <a href="https://carriercatalysttool.netlify.app">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛠️ Repo Pilot
+## 💱 Currency Converter
 
-Node.js CLI for automating GitHub repository creation, initialization, publishing, and deletion.
+An Android application focused on API integration, asynchronous networking, and mobile application development.
 
-`Node.js` `Git` `GitHub CLI` `Automation`
+**Stack**
 
-<br>
-
-<a href="https://github.com/iamHaneef/repo-pilot">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+`Java` `Android` `OkHttp` `REST API`
 
 </td>
 </tr>
@@ -117,68 +170,178 @@ Node.js CLI for automating GitHub repository creation, initialization, publishin
 
 # 🛠️ Technical Stack
 
-<p align="center">
+### 💻 Languages
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
 
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-111111?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
 ---
 
-# 🧠 What I'm Focused On
+# 🧩 Engineering Focus
 
-<p align="center">
-  <strong>Building deeper, not wider.</strong>
-</p>
+I'm particularly interested in understanding **how applications work beyond the UI**.
 
-<p align="center">
-  Full-stack architecture • Java & Spring Boot • AI workflows • System Design • DSA
-</p>
+### Frontend Engineering
+
+- Component-based architecture
+- State management
+- Responsive design
+- API integration
+- Authentication flows
+- Performance and usability
+
+### Backend Engineering
+
+- REST API design
+- Authentication & authorization
+- Database modeling
+- Error handling
+- API security
+- Scalable application structure
+
+### Systems & Infrastructure
+
+- Real-time communication
+- Cloud services
+- Workflow automation
+- Deployment
+- Git & GitHub workflows
+- Application architecture
+
+### Problem Solving
+
+- Data Structures & Algorithms
+- Pattern recognition
+- Complexity analysis
+- LeetCode problem solving
+- Debugging and root-cause analysis
 
 ---
 
 # 📈 My Development Journey
 
-<p align="center">
-  <strong>Frontend</strong>
-  ↓
-  <strong>React & Real-Time Applications</strong>
-  ↓
-  <strong>Node.js & Express</strong>
-  ↓
-  <strong>Full-Stack Architecture</strong>
-  ↓
-  <strong>AI Applications & Automation</strong>
-  ↓
-  <strong>Java Backend</strong>
-  ↓
-  <strong>Spring Boot</strong>
-  ↓
-  <strong>System Design</strong>
-</p>
+```text
+Frontend Development
+        ↓
+React & Modern Web Applications
+        ↓
+Firebase & Real-Time Systems
+        ↓
+Node.js & Express
+        ↓
+MongoDB & Full-Stack Architecture
+        ↓
+AI Applications & Workflow Automation
+        ↓
+Java Backend Development
+        ↓
+Spring Boot
+        ↓
+System Design & Scalable Architecture
+```
 
-<p align="center">
-  <i>Building deeper understanding, one layer at a time.</i>
-</p>
+The goal isn't simply to collect technologies.
+
+The goal is to understand how the pieces work together to build reliable software.
+
+---
+
+# 🎯 Currently Exploring
+
+- 🤖 AI-powered application architecture
+- 🔗 LLM integrations & workflow automation
+- ☕ Java backend development
+- 🌱 Spring Boot architecture
+- 🌐 RESTful API design
+- ☁️ Cloud deployment
+- 📐 System design fundamentals
+- 🧠 Advanced DSA & problem solving
 
 ---
 
 # 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED" height="170" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://haneefweb.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/haneef-j/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Haneef-25_/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 </p>
 
 ---

@@ -318,8 +318,6 @@ The goal is to understand how the pieces work together to build reliable softwar
 
 </p>
 
----
-
 <p align="center">
   <strong>“Spider-Man has to do the hard thing, even if it breaks Peter Parker's heart.”</strong>
 </p>

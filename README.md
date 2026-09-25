@@ -318,9 +318,19 @@ The goal is to understand how the pieces work together to build reliable softwar
 
 </p>
 
-<p align="center">
-  <strong>“Spider-Man has to do the hard thing, even if it breaks Peter Parker's heart.”</strong>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="80%">
+
+### 🕷️
+
+**“Spider-Man has to do the hard thing, even if it breaks Peter Parker's heart.”**
+
+<sub>— Peter Parker</sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <i>Thanks for visiting my profile.</i>

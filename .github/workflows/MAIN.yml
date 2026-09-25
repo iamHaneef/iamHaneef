@@ -20,8 +20,13 @@ jobs:
           github_user_name: iamHaneef
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=purple
             dist/github-contribution-grid-snake.gif
+
+      - name: Slow down Snake animation
+        run: |
+          sed -i 's/29100ms/45000ms/g' dist/github-contribution-grid-snake-dark.svg
+          sed -i 's/29100ms/45000ms/g' dist/github-contribution-grid-snake.svg
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0

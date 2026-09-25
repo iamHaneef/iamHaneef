@@ -49,8 +49,7 @@ I enjoy working across the entire application stack — from designing responsiv
 - 🧩 Solving real-world problems through engineering
 
 ---
-
-# ⭐ Featured Projects
+# ⚡ Featured Projects
 
 <table>
 <tr>
@@ -181,42 +180,56 @@ Node.js CLI for automating GitHub repository creation, initialization, publishin
 
 # 🧩 Engineering Focus
 
-I'm particularly interested in understanding **how applications work beyond the UI**.
+<p align="center">
+  <strong>Think beyond the interface. Build beyond the feature.</strong>
+</p>
 
-### Frontend Engineering
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Component-based architecture
-- State management
-- Responsive design
-- API integration
-- Authentication flows
-- Performance and usability
+### 🎨 Frontend
 
-### Backend Engineering
+I turn ideas into responsive interfaces that are simple to use and easy to maintain.
 
-- REST API design
-- Authentication & authorization
-- Database modeling
-- Error handling
-- API security
-- Scalable application structure
+`React` `JavaScript` `SCSS` `REST APIs`
 
-### Systems & Infrastructure
+</td>
 
-- Real-time communication
-- Cloud services
-- Workflow automation
-- Deployment
-- Git & GitHub workflows
-- Application architecture
+<td width="50%" valign="top">
 
-### Problem Solving
+### ⚙️ Backend
 
-- Data Structures & Algorithms
-- Pattern recognition
-- Complexity analysis
-- LeetCode problem solving
-- Debugging and root-cause analysis
+I focus on APIs, authentication, databases, business logic, and application architecture.
+
+`Node.js` `Express` `Java` `MongoDB`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+I experiment with AI workflows and automation to turn repetitive processes into useful software.
+
+`n8n` `LLM Workflows` `Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+I strengthen my engineering thinking through DSA, debugging, system design, and continuous building.
+
+`DSA` `LeetCode` `System Design`
+
+</td>
+</tr>
+</table>
+
 
 ---
 

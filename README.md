@@ -193,6 +193,12 @@ Currently exploring:
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 <h3 align="center">⭐ Thanks for visiting my GitHub Profile!</h3>
 
 <p align="center">

@@ -313,10 +313,10 @@ The goal is to understand how the pieces work together to build reliable softwar
 
 # 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED" height="170" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />

@@ -316,33 +316,6 @@ The goal is to understand how the pieces work together to build reliable softwar
   <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 </p>
 
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://haneefweb.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/haneef-j/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/Haneef-25_/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</p>
 
 ---
 

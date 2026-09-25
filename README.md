@@ -154,13 +154,19 @@ An interactive resume-building platform with dynamic forms, responsive layouts, 
 
 <td width="50%" valign="top">
 
-## 💱 Currency Converter
+## 🛠️ Repo Pilot
 
-An Android application focused on API integration, asynchronous networking, and mobile application development.
+A Node.js CLI that automates GitHub repository creation, initialization, publishing, and deletion — turning a repetitive Git workflow into a single streamlined command-line experience.
 
 **Stack**
 
-`Java` `Android` `OkHttp` `REST API`
+`Node.js` `JavaScript` `Git` `GitHub CLI` `Automation`
+
+<br>
+
+<a href="https://github.com/iamHaneef/repo-pilot">
+  <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>

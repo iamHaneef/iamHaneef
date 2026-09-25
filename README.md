@@ -100,16 +100,14 @@ Strengthening problem-solving, data structures, algorithms, system design, and s
 
 ## 🤖 Aile — Mark 1
 
-A full-stack AI conversation platform built around persistent conversations, authentication, and AI workflow automation.
-
-**Stack**
+AI conversation platform with persistent conversations, authentication, and workflow automation.
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `n8n`
 
 <br>
 
 <a href="https://aile-mark-1.netlify.app">
-  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -118,16 +116,14 @@ A full-stack AI conversation platform built around persistent conversations, aut
 
 ## 💬 Chat Cafe
 
-A real-time messaging application supporting authentication, persistent conversations, media sharing, cloud synchronization, and responsive chat experiences.
+Real-time messaging platform with authentication, persistent chats, media sharing, and cloud synchronization.
 
-**Stack**
-
-`React` `Firebase Auth` `Firestore` `Firebase Storage`
+`React` `Firebase` `Firestore` `Storage`
 
 <br>
 
 <a href="https://chat-cafe.netlify.app">
-  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -138,16 +134,14 @@ A real-time messaging application supporting authentication, persistent conversa
 
 ## 📄 Career Catalyst
 
-An interactive resume-building platform with dynamic forms, responsive layouts, and structured resume generation.
-
-**Stack**
+Interactive resume builder with dynamic forms and responsive resume generation.
 
 `HTML` `SCSS` `JavaScript`
 
 <br>
 
 <a href="https://carriercatalysttool.netlify.app">
-  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -159,6 +153,8 @@ An interactive resume-building platform with dynamic forms, responsive layouts, 
 Node.js CLI for automating GitHub repository creation, initialization, publishing, and deletion.
 
 `Node.js` `Git` `GitHub CLI` `Automation`
+
+<br>
 
 <a href="https://github.com/iamHaneef/repo-pilot">
   <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" />

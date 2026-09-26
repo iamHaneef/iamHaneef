@@ -329,7 +329,7 @@ The goal is to understand how the pieces work together to build reliable softwar
 
 ---
 
-# 📫 Connect With Me
+# 📫 Get in Touch
 
 <p align="center">
 

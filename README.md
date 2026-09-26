@@ -26,7 +26,7 @@
   real-time systems, AI integrations, responsive interfaces, and reliable backend services.
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://haneefweb.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamHaneef&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
-</p>
+</p> -->
 
 ---
 

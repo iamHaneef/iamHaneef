@@ -8,8 +8,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%24+whoami+%E2%80%94+Haneef;%24+building+%E2%80%94+Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%24+mindset+%E2%80%94+Build+%E2%80%A2+Break+%E2%80%A2+Understand+%E2%80%A2+Improve"
-    alt="Haneef typing introduction"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2492&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami+%E2%86%92+Haneef;%24+building+%E2%86%92+Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%24+mindset+%E2%86%92+Build+%E2%80%A2+Break+%E2%80%A2+Understand+%E2%80%A2+Improve"
+    alt="Haneef"
   />
 </p>
 

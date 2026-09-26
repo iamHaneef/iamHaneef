@@ -291,9 +291,19 @@ The goal is to understand how the pieces work together to build reliable softwar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED" height="170" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+</p> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iamHaneef&theme=github_dark&hide_border=true&cache_seconds=86400" alt="iamHaneef's GitHub Streak" width="49%" />
 </p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=iamHaneef&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+
+
+
 
 
 ---

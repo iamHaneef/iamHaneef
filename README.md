@@ -347,6 +347,8 @@ The goal is to understand how the pieces work together to build reliable softwar
 
 </p>
 
+---
+
 <table align="center">
 <tr>
 <td align="center" width="80%">

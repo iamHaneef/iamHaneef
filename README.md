@@ -8,23 +8,23 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2492&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami+%E2%86%92+Haneef;%24+building+%E2%86%92+Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%24+mindset+%E2%86%92+Build+%E2%80%A2+Break+%E2%80%A2+Understand+%E2%80%A2+Improve"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2492&pause=1000&color=C4B5FD&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami+%E2%86%92+Haneef;%24+building+%E2%86%92+Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%24+mindset+%E2%86%92+Build+%E2%80%A2+Break+%E2%80%A2+Understand+%E2%80%A2+Improve"
     alt="Haneef"
   />
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
   &lt; Hi, I'm Haneef /&gt;
-</h1>
+</h1> -->
 
 <!-- <p align="center">
   <strong>Full Stack Developer • MERN • Java • AI Applications</strong>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   I build full-stack applications with a focus on clean architecture,
   real-time systems, AI integrations, responsive interfaces, and reliable backend services.
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://haneefweb.netlify.app">

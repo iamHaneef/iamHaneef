@@ -9,9 +9,9 @@
   &lt; Hi, I'm Haneef /&gt;
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <strong>Full Stack Developer • MERN • Java • AI Applications</strong>
-</p>
+</p> -->
 
 <p align="center">
   I build full-stack applications with a focus on clean architecture,

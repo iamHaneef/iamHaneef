@@ -361,6 +361,9 @@ The goal is to understand how the pieces work together to build reliable softwar
 </tr>
 </table>
 
-<p align="center">
-  <i>Thanks for visiting my profile.</i>
-</p>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=footer&reversal=false&text=All+wrapped+up+here%2C+sir.+&textBg=false&fontSize=47&fontAlign=50&fontAlignY=55&rotate=0&strokeWidth=0&desc=Will+there+be+anything+else%3F&descSize=24&descAlign=50&descAlignY=79"
+    width="100%"
+  />
+</div>

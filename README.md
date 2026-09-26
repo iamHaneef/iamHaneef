@@ -1,4 +1,5 @@
-<img width="100%" src="./assets/Explore.png" />
+<!-- <img width="100%" src="./assets/Explore.png" /> -->
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Wake+up%2C+Daddy%27s+Home&textBg=false&fontSize=47&fontAlign=50&fontAlignY=34&rotate=0&strokeWidth=0&desc=Full+Stack+Developer+%E2%80%A2+MERN+%E2%80%A2+AI+Applications+%E2%80%A2+Automation&descSize=24&descAlign=50&descAlignY=57
 
 <h1 align="center">
   &lt; Hi, I'm Haneef /&gt;

@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+Myself%2C+Haneef;Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%E2%9A%A1+I+Build+-+I+Break+-+I+Learn+-+I+Rebuild)](https://git.io/typing-svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+Myself%2C+Haneef;Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%E2%9A%A1+I+Build+-+I+Break+-+I+Learn+-+I+Rebuild" alt="Typing SVG" />
 </p>
 
 <!-- <h1 align="center">

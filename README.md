@@ -6,6 +6,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Wake+up%2C+Daddy%27s+Home&textBg=false&fontSize=47&fontAlign=50&fontAlignY=34&rotate=0&strokeWidth=0&desc=Full+Stack+Developer+%E2%80%A2+MERN+%E2%80%A2+AI+Applications+%E2%80%A2+Automation&descSize=24&descAlign=50&descAlignY=57" width="100%"/>
 </div>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%24+whoami+%E2%80%94+Haneef;%24+building+%E2%80%94+Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%24+mindset+%E2%80%94+Build+%E2%80%A2+Break+%E2%80%A2+Understand+%E2%80%A2+Improve"
+    alt="Haneef typing introduction"
+  />
+</p>
+
 <h1 align="center">
   &lt; Hi, I'm Haneef /&gt;
 </h1>

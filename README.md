@@ -362,12 +362,12 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 <p align="center">
 
-<a href="https://haneefweb.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/haneef-j/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://haneefweb.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/Haneef-25_/">

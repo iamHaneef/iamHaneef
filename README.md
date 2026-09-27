@@ -58,7 +58,7 @@
 
 ---
 
-# 🧩 WHO AM I ?
+# 🧩 Who Am I ?
 
 <table>
 <tr>

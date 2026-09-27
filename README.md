@@ -104,38 +104,28 @@ I enjoy understanding how the pieces connect, then putting them together into so
 </table>
 
 ---
-# ⚡ Featured Projects
+# ⚡ Things I've Built
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ## 🤖 Aile — Mark 1
 
-AI conversation platform with persistent conversations, authentication, and workflow automation.
+### AI Conversation Platform
+
+A full-stack AI conversation platform with persistent conversations, authentication, and workflow automation.
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `n8n`
 
 <br>
 
-<a href="https://aile-mark-1.netlify.app">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💬 Chat Cafe
-
-Real-time messaging platform with authentication, persistent chats, media sharing, and cloud synchronization.
-
-`React` `Firebase` `Firestore` `Storage`
+**CONVERSATION → AUTHENTICATION → WORKFLOW AUTOMATION**
 
 <br>
 
-<a href="https://chat-cafe.netlify.app">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://aile-mark-1.netlify.app">
+  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -144,32 +134,60 @@ Real-time messaging platform with authentication, persistent chats, media sharin
 <tr>
 <td width="50%" valign="top">
 
-## 📄 Career Catalyst
+## 💬 Chat Cafe
 
-Interactive resume builder with dynamic forms and responsive resume generation.
+### Real-Time Messaging Platform
 
-`HTML` `SCSS` `JavaScript`
+A real-time messaging platform with authentication, persistent chats, media sharing, and cloud synchronization.
+
+`React` `Firebase` `Firestore` `Storage`
 
 <br>
 
-<a href="https://carriercatalysttool.netlify.app">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://chat-cafe.netlify.app">
+  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
+## 📄 Career Catalyst
+
+### Resume Builder
+
+A responsive resume builder with dynamic forms and resume generation.
+
+`HTML` `SCSS` `JavaScript`
+
+<br>
+
+<a href="https://carriercatalysttool.netlify.app">
+  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
 ## 🛠️ Repo Pilot
 
-Node.js CLI for automating GitHub repository creation, initialization, publishing, and deletion.
+### GitHub Repository Automation CLI
+
+A Node.js CLI that automates GitHub repository creation, initialization, publishing, and deletion.
 
 `Node.js` `Git` `GitHub CLI` `Automation`
 
 <br>
 
+**CREATE → INITIALIZE → PUBLISH → DELETE**
+
+<br>
+
 <a href="https://github.com/iamHaneef/repo-pilot">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/↗_VIEW_REPOSITORY-E63946?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>

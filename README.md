@@ -283,22 +283,9 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 ---
 
-# 📡 GitHub Intelligence
+# 📡 GitHub Telemetry
 
-<p align="center">
-  <strong>HNF // GITHUB TELEMETRY</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img
-    src="https://img.shields.io/badge/●_LIVE-00E676?style=flat-square&labelColor=15191E"
-    alt="Live"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <strong>01 / CONTRIBUTION SIGNAL</strong>
-</p>
+## STREAK // LIVE
 
 <p align="center">
   <img
@@ -308,11 +295,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
   />
 </p>
 
-<br>
-
-<p align="center">
-  <strong><b>02 / CONTRIBUTION ACTIVITY</b></strong>
-</p>
+## CONTRIBUTION ACTIVITY // LIVE
 
 <p align="center">
   <img
@@ -322,7 +305,9 @@ I enjoy understanding how the pieces connect, then putting them together into so
   />
 </p>
 
-<br>
+<p align="center">
+  <sub><b>CODE • CREATE • COMMIT • REPEAT</b></sub>
+</p>
 
 <!-- <p align="center">
    <strong<b>03 / GITHUB MILESTONES</b></strong>

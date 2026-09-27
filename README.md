@@ -299,19 +299,6 @@ The goal is to understand how the pieces work together to build reliable softwar
 
 ---
 
-# 🎯 Currently Exploring
-
-- 🤖 AI-powered application architecture
-- 🔗 LLM integrations & workflow automation
-- ☕ Java backend development
-- 🌱 Spring Boot architecture
-- 🌐 RESTful API design
-- ☁️ Cloud deployment
-- 📐 System design fundamentals
-- 🧠 Advanced DSA & problem solving
-
----
-
 # 📊 GitHub Stats & Trophies
 
 <!-- <p align="center">

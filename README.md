@@ -1,6 +1,4 @@
 ---
-<!-- <img width="100%" src="./assets/Explore.png" /> -->
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Wake+up%2C+Daddy%27s+Home&textBg=false&fontSize=47&fontAlign=50&fontAlignY=34&rotate=0&strokeWidth=0&desc=Full+Stack+Developer+%E2%80%A2+Automation+Engineer+%E2%80%A2+Product+Builder&descSize=24&descAlign=50&descAlignY=57" width="100%"/>
@@ -9,35 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+Myself%2C+Haneef;%F0%9F%A7%A9+Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%E2%9A%A1+Rebuild+it.+Just+the+way+it+was%2C+brick+for+brick" alt="Typing SVG" />
 </p>
-
-<!-- <h1 align="center">
-  &lt; Hi, I'm Haneef /&gt;
-</h1> -->
-
-<!-- <p align="center">
-  <strong>Full Stack Developer • MERN • Java • AI Applications</strong>
-</p> -->
-
-<!-- <p align="center">
-  I build full-stack applications with a focus on clean architecture,
-  real-time systems, AI integrations, responsive interfaces, and reliable backend services.
-</p> -->
-
-<!-- <p align="center">
-  <a href="https://haneefweb.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/haneef-j/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Haneef-25_/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamHaneef&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
-</p> -->
 
 <p align="center">
   <img
@@ -323,36 +292,6 @@ I enjoy understanding how the pieces connect, then putting them together into so
 </p>
 
 <br>
-
-<!-- <p align="center">
-   <strong<b>03 / GITHUB MILESTONES</b></strong>
-</p> -->
-
-<!-- <p align="center">
-  <img
-    src="https://trophy.ryglcloud.net/?username=iamHaneef&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
-    alt="iamHaneef's GitHub Trophies"
-    width="100%"
-  />
-</p>
-
-<br> -->
-
-<!-- <p align="center">
-  <sub><b>CODE • CREATE • COMMIT • REPEAT</b></sub>
-</p> -->
-
-
-
-<!-- ---
-
-# 🐍 The Snake Is Hungry...
-
-
-
-<p align="center">
-  <i>Feeding the snake, one contribution at a time.</i>
-</p>-->
 
 ---
 

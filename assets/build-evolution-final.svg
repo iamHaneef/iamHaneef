@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610">
+  <defs>
+    <linearGradient id="rg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFD23F"/>
+      <stop offset=".48" stop-color="#E63946"/>
+      <stop offset="1" stop-color="#FFD23F"/>
+    </linearGradient>
+
+    <linearGradient id="rg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E63946"/>
+      <stop offset="1" stop-color="#FFD23F"/>
+    </linearGradient>
+
+    <filter id="glowGold">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glowRed">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#20262D" stroke-width="1"/>
+    </pattern>
+
+    <style>
+      .mono { font-family: "DejaVu Sans Mono", "Courier New", monospace; }
+      .title { fill:#E8EDF2; font-weight:700; }
+      .muted { fill:#8A949E; }
+      .gold { fill:#FFD23F; }
+      .red { fill:#E63946; }
+      .green { fill:#00E676; }
+    </style>
+  </defs>
+
+  <!-- shell -->
+  <rect x="12" y="12" width="1176" height="586" rx="28" fill="#0B0D10"/>
+  <rect x="28" y="28" width="1144" height="554" rx="22" fill="#15191E" stroke="#303740" stroke-width="1.5"/>
+  <rect x="29" y="29" width="1142" height="552" rx="21" fill="url(#grid)" opacity=".28"/>
+
+  <!-- header -->
+  <text x="64" y="70" class="mono muted" font-size="13" letter-spacing="4">HNF // DEVELOPMENT EVOLUTION</text>
+  <text x="1136" y="70" text-anchor="end" class="mono green" font-size="12" font-weight="700" letter-spacing="2">EVOLVING</text>
+  <circle cx="1100" cy="65" r="5" fill="#00E676" filter="url(#glowGold)">
+    <animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="64" y1="94" x2="1136" y2="94" stroke="url(#rg)" stroke-width="2"/>
+
+  <!-- subtle scan line -->
+  <rect x="64" y="116" width="1072" height="1" fill="#E63946" opacity=".12">
+    <animate attributeName="y" values="116;420;116" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- evolution rail: EVERY milestone is physically on the path -->
+  <path d="M130 270
+           C185 205, 255 205, 315 270
+           C375 335, 435 335, 500 270
+           C565 205, 625 205, 690 270
+           C755 335, 815 335, 880 270
+           C945 205, 1015 205, 1070 270"
+        fill="none" stroke="#303740" stroke-width="7" stroke-linecap="round"/>
+
+  <path d="M130 270
+           C185 205, 255 205, 315 270
+           C375 335, 435 335, 500 270
+           C565 205, 625 205, 690 270
+           C755 335, 815 335, 880 270
+           C945 205, 1015 205, 1070 270"
+        fill="none" stroke="url(#rg)" stroke-width="3" stroke-linecap="round"
+        stroke-dasharray="12 12">
+    <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- moving signal -->
+  <circle r="6" fill="#FFD23F" filter="url(#glowGold)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M130 270 C185 205,255 205,315 270 C375 335,435 335,500 270 C565 205,625 205,690 270 C755 335,815 335,880 270 C945 205,1015 205,1070 270"/>
+  </circle>
+
+  <!-- 01 -->
+  <g>
+    <circle cx="130" cy="270" r="31" fill="#0B0D10" stroke="#FFD23F" stroke-width="3"/>
+    <circle cx="130" cy="270" r="24" fill="none" stroke="#FFD23F" stroke-opacity=".22"/>
+    <text x="130" y="276" text-anchor="middle" class="mono gold" font-size="15" font-weight="700">01</text>
+    <text x="130" y="337" text-anchor="middle" class="mono title" font-size="16">FRONTEND</text>
+    <text x="130" y="358" text-anchor="middle" class="mono muted" font-size="11">HTML • CSS • JS</text>
+  </g>
+
+  <!-- 02 -->
+  <g>
+    <circle cx="315" cy="270" r="31" fill="#0B0D10" stroke="#E63946" stroke-width="3"/>
+    <circle cx="315" cy="270" r="24" fill="none" stroke="#E63946" stroke-opacity=".22"/>
+    <text x="315" y="276" text-anchor="middle" class="mono red" font-size="15" font-weight="700">02</text>
+    <text x="315" y="198" text-anchor="middle" class="mono title" font-size="16">MODERN WEB</text>
+    <text x="315" y="179" text-anchor="middle" class="mono muted" font-size="11">REACT • MODERN UI</text>
+  </g>
+
+  <!-- 03 -->
+  <g>
+    <circle cx="500" cy="270" r="31" fill="#0B0D10" stroke="#FFD23F" stroke-width="3"/>
+    <circle cx="500" cy="270" r="24" fill="none" stroke="#FFD23F" stroke-opacity=".22"/>
+    <text x="500" y="276" text-anchor="middle" class="mono gold" font-size="15" font-weight="700">03</text>
+    <text x="500" y="337" text-anchor="middle" class="mono title" font-size="16">REAL-TIME</text>
+    <text x="500" y="358" text-anchor="middle" class="mono muted" font-size="11">FIREBASE • SYNC</text>
+  </g>
+
+  <!-- 04 -->
+  <g>
+    <circle cx="690" cy="270" r="31" fill="#0B0D10" stroke="#E63946" stroke-width="3"/>
+    <circle cx="690" cy="270" r="24" fill="none" stroke="#E63946" stroke-opacity=".22"/>
+    <text x="690" y="276" text-anchor="middle" class="mono red" font-size="15" font-weight="700">04</text>
+    <text x="690" y="198" text-anchor="middle" class="mono title" font-size="16">FULL STACK</text>
+    <text x="690" y="179" text-anchor="middle" class="mono muted" font-size="11">NODE • EXPRESS • MONGO</text>
+  </g>
+
+  <!-- 05 -->
+  <g>
+    <circle cx="880" cy="270" r="31" fill="#0B0D10" stroke="#FFD23F" stroke-width="3"/>
+    <circle cx="880" cy="270" r="24" fill="none" stroke="#FFD23F" stroke-opacity=".22"/>
+    <text x="880" y="276" text-anchor="middle" class="mono gold" font-size="15" font-weight="700">05</text>
+    <text x="880" y="337" text-anchor="middle" class="mono title" font-size="16">AI + AUTOMATION</text>
+    <text x="880" y="358" text-anchor="middle" class="mono muted" font-size="11">AI • N8N • WORKFLOWS</text>
+  </g>
+
+  <!-- 06 / future marker, on same rail -->
+  <g>
+    <circle cx="1070" cy="270" r="31" fill="#0B0D10" stroke="#E63946" stroke-width="3"/>
+    <circle cx="1070" cy="270" r="24" fill="none" stroke="#E63946" stroke-opacity=".22"/>
+    <text x="1070" y="276" text-anchor="middle" class="mono red" font-size="15" font-weight="700">06</text>
+    <text x="1070" y="337" text-anchor="middle" class="mono title" font-size="15">SYSTEMS</text>
+    <text x="1070" y="358" text-anchor="middle" class="mono muted" font-size="11">JAVA • SPRING BOOT</text>
+  </g>
+
+  <!-- continuation connector -->
+  <path d="M1070 302 C1070 395, 1015 430, 930 430" fill="none" stroke="#FFD23F" stroke-width="2" stroke-dasharray="7 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-30" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- next evolution: intentionally wider, breathing room -->
+  <g>
+    <rect x="250" y="397" width="680" height="104" rx="18" fill="#0B0D10" stroke="#3A414A"/>
+    <rect x="252" y="399" width="676" height="100" rx="16" fill="none" stroke="url(#rg2)" stroke-opacity=".5"/>
+    <text x="590" y="425" text-anchor="middle" class="mono muted" font-size="11" letter-spacing="4">NEXT EVOLUTION</text>
+    <text x="590" y="457" text-anchor="middle" class="mono title" font-size="21" font-weight="700">JAVA → SPRING BOOT → SYSTEM DESIGN</text>
+    <text x="590" y="480" text-anchor="middle" class="mono gold" font-size="10" letter-spacing="1.5">FROM BUILDING FEATURES TO UNDERSTANDING SYSTEMS</text>
+  </g>
+
+  <!-- footer -->
+  <line x1="64" y1="535" x2="1136" y2="535" stroke="#303740"/>
+  <text x="64" y="558" class="mono muted" font-size="10" letter-spacing="2.5">NOT A STACK TO COLLECT</text>
+  <text x="1136" y="558" text-anchor="end" class="mono red" font-size="10" letter-spacing="2.5">A SYSTEM TO UNDERSTAND</text>
+</svg>

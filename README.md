@@ -110,23 +110,35 @@ I enjoy understanding how the pieces connect, then putting them together into so
 <tr>
 <td colspan="2" valign="top">
 
-## 🤖 Aile — Mark 1
+<h2 align="center">🤖 Aile — Mark 1</h2>
 
-### AI Conversation Platform
+<h3 align="center">AI Conversation Platform</h3>
 
-A full-stack AI conversation platform with persistent conversations, authentication, and workflow automation.
+<p align="center">
+  A full-stack AI conversation platform with persistent conversations,
+  authentication, and workflow automation.
+</p>
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `n8n`
+<p align="center">
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>MongoDB</code>
+  <code>JWT</code>
+  <code>n8n</code>
+</p>
+
+<p align="center">
+  <b>CONVERSATION → AUTHENTICATION → WORKFLOW AUTOMATION</b>
+</p>
 
 <br>
 
-**CONVERSATION → AUTHENTICATION → WORKFLOW AUTOMATION**
-
-<br>
-
-<a href="https://aile-mark-1.netlify.app">
-  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://aile-mark-1.netlify.app">
+    <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -134,66 +146,60 @@ A full-stack AI conversation platform with persistent conversations, authenticat
 <tr>
 <td width="50%" valign="top">
 
-## 💬 Chat Cafe
+<h2 align="center">💬 Chat Cafe</h2>
 
-### Real-Time Messaging Platform
+<h3 align="center">Real-Time Messaging Platform</h3>
 
-A real-time messaging platform with authentication, persistent chats, media sharing, and cloud synchronization.
+<p align="center">
+  A real-time messaging platform with authentication,
+  persistent chats, media sharing, and cloud synchronization.
+</p>
 
-`React` `Firebase` `Firestore` `Storage`
+<p align="center">
+  <code>React</code>
+  <code>Firebase</code>
+  <code>Firestore</code>
+  <code>Storage</code>
+</p>
 
 <br>
 
-<a href="https://chat-cafe.netlify.app">
-  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://chat-cafe.netlify.app">
+    <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📄 Career Catalyst
+<h2 align="center">📄 Career Catalyst</h2>
 
-### Resume Builder
+<h3 align="center">Resume Builder</h3>
 
-A responsive resume builder with dynamic forms and resume generation.
+<p align="center">
+  A responsive resume builder with dynamic forms
+  and resume generation.
+</p>
 
-`HTML` `SCSS` `JavaScript`
-
-<br>
-
-<a href="https://carriercatalysttool.netlify.app">
-  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-## 🛠️ Repo Pilot
-
-### GitHub Repository Automation CLI
-
-A Node.js CLI that automates GitHub repository creation, initialization, publishing, and deletion.
-
-`Node.js` `Git` `GitHub CLI` `Automation`
+<p align="center">
+  <code>HTML</code>
+  <code>SCSS</code>
+  <code>JavaScript</code>
+</p>
 
 <br>
 
-**CREATE → INITIALIZE → PUBLISH → DELETE**
-
-<br>
-
-<a href="https://github.com/iamHaneef/repo-pilot">
-  <img src="https://img.shields.io/badge/↗_VIEW_REPOSITORY-E63946?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://carriercatalysttool.netlify.app">
+    <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 </td>
 </tr>
 </table>
-
 ---
 
 # 🛠️ Technical Stack

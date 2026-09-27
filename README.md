@@ -39,13 +39,18 @@
   <img src="https://komarev.com/ghpvc/?username=iamHaneef&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
 </p> -->
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/main/assets/haneef-dev-system.svg"
+    alt="Haneef Developer System"
+    width="100%"
+  />
+</p>
+
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
-
-
 
 
 ---

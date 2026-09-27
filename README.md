@@ -265,111 +265,74 @@ I enjoy understanding how the pieces connect, then putting them together into so
 </p>
 
 <table width="100%">
-<tr>
-<td align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <strong>PROBLEM</strong>
+    </td>
+  </tr>
 
-### PROBLEM
+  <tr>
+    <td colspan="3" align="center">
+      ↓
+    </td>
+  </tr>
 
-</td>
-</tr>
+  <tr>
+    <td colspan="3" align="center">
+      <strong>ARCHITECTURE</strong>
+    </td>
+  </tr>
 
-<tr>
-<td align="center">
+  <tr>
+    <td width="33%" align="center">↙</td>
+    <td width="34%" align="center">↓</td>
+    <td width="33%" align="center">↘</td>
+  </tr>
 
-⬇️
+  <tr>
+    <td align="center"><strong>DATA</strong></td>
+    <td align="center"><strong>RELIABILITY</strong></td>
+    <td align="center"><strong>AUTOMATION</strong></td>
+  </tr>
 
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center">↘</td>
+    <td width="34%" align="center">↓</td>
+    <td width="33%" align="center">↙</td>
+  </tr>
 
-<tr>
-<td align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <strong>BUILD</strong>
+    </td>
+  </tr>
 
-### ARCHITECTURE
+  <tr>
+    <td colspan="3" align="center">
+      ↓
+    </td>
+  </tr>
 
-</td>
-</tr>
+  <tr>
+    <td colspan="3" align="center">
+      <strong>ITERATE</strong>
+    </td>
+  </tr>
 
-<tr>
-<td align="center">
-
-↙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↘️
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**DATA**
-
-</td>
-
-<td width="34%" align="center">
-
-**RELIABILITY**
-
-</td>
-
-<td width="33%" align="center">
-
-**AUTOMATION**
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-↘️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↙️
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### BUILD
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-⬇️
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ITERATE
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-↺
-
-</td>
-</tr>
-
+  <tr>
+    <td colspan="3" align="center">
+      ↺
+    </td>
+  </tr>
 </table>
 
 <p align="center">
   <strong>Understand the problem. Connect the pieces. Build what works.</strong>
 </p>
+
+
+
+
 
 ---
 

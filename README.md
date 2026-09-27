@@ -84,11 +84,20 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/Ice_bear.gif" width="100%" alt="Ice Bear working at a computer" />
+  <img src="./assets/Ice_bear.gif"
+       width="100%"
+       alt="Ice Bear working at a computer" />
 
-<br><br>
+  <br><br>
 
-<sub><b>BUILD • AUTOMATE • SHIP</b></sub>
+  <div align="center">
+    <i>
+      <b>Ice Bear sees where<br>
+      this is going.</b>
+    </i>
+    <br><br>
+    <sub>— Ice Bear</sub>
+  </div>
 
 </td>
 </tr>

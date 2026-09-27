@@ -377,7 +377,6 @@ I enjoy understanding how the pieces connect, then putting them together into so
 </p>
 
 <br>
-<br>
 
 
 <table align="center">

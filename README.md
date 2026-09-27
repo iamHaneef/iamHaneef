@@ -358,6 +358,8 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 # 📫 Get in Touch
 
+<br>
+
 <p align="center">
 
 <a href="https://haneefweb.netlify.app">

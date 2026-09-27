@@ -324,10 +324,6 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 <br>
 
-<p align="center">
-  <sub><b>CODE • CREATE • COMMIT • REPEAT</b></sub>
-</p>
-
 <!-- <p align="center">
    <strong<b>03 / GITHUB MILESTONES</b></strong>
 </p> -->

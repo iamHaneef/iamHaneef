@@ -262,7 +262,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 <p align="center">
   <img
-    src="./assets/engineering-loop-red-gold.svg"
+    src="./assets/engineering-loop-animated.svg"
     width="100%"
     alt="Haneef Engineering Loop"
   />

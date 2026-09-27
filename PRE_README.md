@@ -1,0 +1,401 @@
+---
+<!-- <img width="100%" src="./assets/Explore.png" /> -->
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Wake+up%2C+Daddy%27s+Home&textBg=false&fontSize=47&fontAlign=50&fontAlignY=34&rotate=0&strokeWidth=0&desc=Full+Stack+Developer+%E2%80%A2+Automation+Engineer+%E2%80%A2+Product+Builder&descSize=24&descAlign=50&descAlignY=57" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+Myself%2C+Haneef;%F0%9F%A7%A9+Full+Stack+%E2%80%A2+MERN+%E2%80%A2+AI+%E2%80%A2+Automation;%E2%9A%A1+Rebuild+it.+Just+the+way+it+was%2C+brick+for+brick" alt="Typing SVG" />
+</p>
+
+<!-- <h1 align="center">
+  &lt; Hi, I'm Haneef /&gt;
+</h1> -->
+
+<!-- <p align="center">
+  <strong>Full Stack Developer • MERN • Java • AI Applications</strong>
+</p> -->
+
+<!-- <p align="center">
+  I build full-stack applications with a focus on clean architecture,
+  real-time systems, AI integrations, responsive interfaces, and reliable backend services.
+</p> -->
+
+<!-- <p align="center">
+  <a href="https://haneefweb.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haneef-j/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Haneef-25_/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamHaneef&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+</p> -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/main/assets/haneef-dev-system-cyan-clean.svg"
+    alt="Haneef Developer System"
+    width="100%"
+  />
+</p>
+
+---
+
+# 📡 Developer Telemetry
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+
+---
+
+# 🧩 Who Am I ?
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### Building beyond the interface
+
+I'm a developer who likes turning ideas into **working systems** — not stopping at the interface.
+
+My journey started with frontend development and expanded into **backend engineering, databases, real-time systems, AI applications, workflow automation, and deployment**.
+
+I enjoy understanding how the pieces connect, then putting them together into something useful, maintainable, and real.
+
+### What I care about
+
+- 🏗️ **Clean architecture** — systems that remain understandable as they grow
+- 🔐 **Reliable foundations** — authentication, data, APIs, and application logic
+- 🤖 **Practical AI** — using AI where it genuinely adds value
+- ⚙️ **Automation** — turning repetitive work into useful workflows
+- ⚡ **Real-world building** — ideas are better when they become working software
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+  <img src="./assets/Ice_bear.gif"
+       width="100%"
+       alt="Ice Bear working at a computer" />
+
+  <br><br>
+
+  <div align="center">
+    <i>
+      <b>Ice Bear sees where<br>
+      this is going.</b>
+    </i>
+    <br><br>
+    <sub>— Ice Bear</sub>
+  </div>
+
+</td>
+</tr>
+</table>
+
+---
+# ⚡ Things I've Built
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+<h2 align="center">🤖 Aile — Mark 1</h2>
+
+<h3 align="center">AI Conversation Platform</h3>
+
+<p align="center">
+  A full-stack AI conversation platform with persistent conversations,
+  authentication, and workflow automation.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>MongoDB</code>
+  <code>JWT</code>
+  <code>n8n</code>
+</p>
+
+<p align="center">
+  <b>CONVERSATION → AUTHENTICATION → WORKFLOW AUTOMATION</b>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://aile-mark-1.netlify.app">
+    <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h2 align="center">💬 Chat Cafe</h2>
+
+<h3 align="center">Real-Time Messaging Platform</h3>
+
+<p align="center">
+  A real-time messaging platform with authentication,
+  persistent chats, media sharing, and cloud synchronization.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>Firebase</code>
+  <code>Firestore</code>
+  <code>Storage</code>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://chat-cafe.netlify.app">
+    <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">📄 Career Catalyst</h2>
+
+<h3 align="center">Resume Builder</h3>
+
+<p align="center">
+  A responsive resume builder with dynamic forms
+  and resume generation.
+</p>
+
+<p align="center">
+  <code>HTML</code>
+  <code>SCSS</code>
+  <code>JavaScript</code>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://carriercatalysttool.netlify.app">
+    <img src="https://img.shields.io/badge/↗_LIVE_DEMO-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technical Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-111111?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+</p>
+
+---
+
+# 🧩 Engineering Focus
+
+<p align="center">
+  <img
+    src="./assets/engineering-loop-animated.svg"
+    width="100%"
+    alt="Haneef Engineering Loop"
+  />
+</p>
+
+
+---
+
+# 📈 Development Evolution
+
+<p align="center">
+  <img
+    src="./assets/development-evolution.svg"
+    width="100%"
+    alt="Haneef Development Evolution"
+  />
+</p>
+
+---
+
+# 📡 GitHub Telemetry
+
+<p align="center">
+  <strong>HNF // GITHUB ACTIVITY</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img
+    src="https://img.shields.io/badge/●_LIVE-00E676?style=flat-square&labelColor=15191E"
+    alt="Live"
+  />
+</p>
+
+<br>
+
+<p align="center">
+   <strong>STREAK </strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=iamHaneef&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="iamHaneef's GitHub Streak"
+    width="70%"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <strong>CONTRIBUTION ACTIVITY</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg"
+    alt="iamHaneef's GitHub contribution activity"
+    width="100%"
+  />
+</p>
+
+<br>
+
+<!-- <p align="center">
+   <strong<b>03 / GITHUB MILESTONES</b></strong>
+</p> -->
+
+<!-- <p align="center">
+  <img
+    src="https://trophy.ryglcloud.net/?username=iamHaneef&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
+    alt="iamHaneef's GitHub Trophies"
+    width="100%"
+  />
+</p>
+
+<br> -->
+
+<!-- <p align="center">
+  <sub><b>CODE • CREATE • COMMIT • REPEAT</b></sub>
+</p> -->
+
+
+
+<!-- ---
+
+# 🐍 The Snake Is Hungry...
+
+
+
+<p align="center">
+  <i>Feeding the snake, one contribution at a time.</i>
+</p>-->
+
+---
+
+# 📫 Get in Touch
+
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/haneef-j/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://haneefweb.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Haneef-25_/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
+
+<br>
+
+
+<table align="center">
+<tr>
+<td align="center" width="80%">
+
+### 🕷️
+
+**“Spider-Man has to do the hard thing, even if it breaks Peter Parker's heart.”**
+
+<sub>— Peter Parker</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=false&text=All+wrapped+up+here%2C+sir.+&textBg=false&fontSize=40&fontAlign=50&fontAlignY=55&rotate=0&strokeWidth=0&desc=Will+there+be+anything+else%3F&descSize=20&descAlign=50&descAlignY=79"
+    width="100%"
+  />
+</div>

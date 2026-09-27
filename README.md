@@ -297,7 +297,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 <br>
 
 <p align="center">
-  <strong>STREAK</strong>
+  ## STREAK
 </p>
 
 <p align="center">

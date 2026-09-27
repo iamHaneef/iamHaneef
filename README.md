@@ -264,51 +264,38 @@ I enjoy understanding how the pieces connect, then putting them together into so
   <strong>Think beyond the interface. Build beyond the feature.</strong>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎨 Frontend
+<pre>
+                         PROBLEM
+                    Understand the need
+                            │
+                            ▼
+                      ARCHITECTURE
+                 Design before adding features
+                     ╱       │       ╲
+                    ▼        ▼        ▼
+                  DATA   RELIABILITY  AUTOMATION
+                Data flow  Security   Remove repetitive work
+                           & edge cases
+                     ╲       │       ╱
+                            ▼
+                          BUILD
+                    Turn ideas into
+                    working systems
+                            │
+                            ▼
+                         ITERATE
+                  Debug • Improve • Repeat
+                            │
+                            └────────↺
+</pre>
 
-I turn ideas into responsive interfaces that are simple to use and easy to maintain.
+</div>
 
-`React` `JavaScript` `SCSS` `REST APIs`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-I focus on APIs, authentication, databases, business logic, and application architecture.
-
-`Node.js` `Express` `Java` `MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Automation
-
-I experiment with AI workflows and automation to turn repetitive processes into useful software.
-
-`n8n` `LLM Workflows` `Automation`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Problem Solving
-
-I strengthen my engineering thinking through DSA, debugging, system design, and continuous building.
-
-`DSA` `LeetCode` `System Design`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <strong>Understand the problem. Connect the pieces. Build what works.</strong>
+</p>
 
 
 ---

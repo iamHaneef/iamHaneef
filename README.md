@@ -200,6 +200,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 </td>
 </tr>
 </table>
+
 ---
 
 # 🛠️ Technical Stack

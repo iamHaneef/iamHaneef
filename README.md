@@ -41,7 +41,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/main/assets/haneef-dev-system.svg"
+    src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/main/assets/haneef-dev-system-cyan-clean.svg"
     alt="Haneef Developer System"
     width="100%"
   />

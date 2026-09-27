@@ -261,77 +261,12 @@ I enjoy understanding how the pieces connect, then putting them together into so
 # 🧩 Engineering Focus
 
 <p align="center">
-  <strong>Think beyond the interface. Build beyond the feature.</strong>
+  <img
+    src="./assets/engineering-loop-red-gold.svg"
+    width="100%"
+    alt="Haneef Engineering Loop"
+  />
 </p>
-
-<table width="100%">
-  <tr>
-    <td colspan="3" align="center">
-      <strong>PROBLEM</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="3" align="center">
-      ↓
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="3" align="center">
-      <strong>ARCHITECTURE</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%" align="center">↙</td>
-    <td width="34%" align="center">↓</td>
-    <td width="33%" align="center">↘</td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>DATA</strong></td>
-    <td align="center"><strong>RELIABILITY</strong></td>
-    <td align="center"><strong>AUTOMATION</strong></td>
-  </tr>
-
-  <tr>
-    <td width="33%" align="center">↘</td>
-    <td width="34%" align="center">↓</td>
-    <td width="33%" align="center">↙</td>
-  </tr>
-
-  <tr>
-    <td colspan="3" align="center">
-      <strong>BUILD</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="3" align="center">
-      ↓
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="3" align="center">
-      <strong>ITERATE</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="3" align="center">
-      ↺
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <strong>Understand the problem. Connect the pieces. Build what works.</strong>
-</p>
-
-
-
 
 
 ---

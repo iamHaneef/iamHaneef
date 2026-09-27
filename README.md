@@ -264,27 +264,108 @@ I enjoy understanding how the pieces connect, then putting them together into so
   <strong>Think beyond the interface. Build beyond the feature.</strong>
 </p>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center">
 
-<pre>
-                         PROBLEM
-                            │
-                            ▼
-                      ARCHITECTURE
-                       ╱    │    ╲
-                      ▼     ▼     ▼
-                    DATA  RELIABILITY  AUTOMATION
-                       ╲    │    ╱
-                            ▼
-                          BUILD
-                            │
-                            ▼
-                         ITERATE
-                            │
-                            └──────↺
-</pre>
+### PROBLEM
 
-</div>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ARCHITECTURE
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+↙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↘️
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**DATA**
+
+</td>
+
+<td width="34%" align="center">
+
+**RELIABILITY**
+
+</td>
+
+<td width="33%" align="center">
+
+**AUTOMATION**
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+↘️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↙️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### BUILD
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ITERATE
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+↺
+
+</td>
+</tr>
+
+</table>
 
 <p align="center">
   <strong>Understand the problem. Connect the pieces. Build what works.</strong>

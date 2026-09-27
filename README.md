@@ -268,27 +268,20 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 <pre>
                          PROBLEM
-                    Understand the need
                             │
                             ▼
                       ARCHITECTURE
-                 Design before adding features
-                     ╱       │       ╲
-                    ▼        ▼        ▼
-                  DATA   RELIABILITY  AUTOMATION
-                Data flow  Security   Remove repetitive work
-                           & edge cases
-                     ╲       │       ╱
+                       ╱    │    ╲
+                      ▼     ▼     ▼
+                    DATA  RELIABILITY  AUTOMATION
+                       ╲    │    ╱
                             ▼
                           BUILD
-                    Turn ideas into
-                    working systems
                             │
                             ▼
                          ITERATE
-                  Debug • Improve • Repeat
                             │
-                            └────────↺
+                            └──────↺
 </pre>
 
 </div>
@@ -296,7 +289,6 @@ I enjoy understanding how the pieces connect, then putting them together into so
 <p align="center">
   <strong>Understand the problem. Connect the pieces. Build what works.</strong>
 </p>
-
 
 ---
 

@@ -297,7 +297,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 <br>
 
 <p align="center">
-  <sub><b>01 / CONTRIBUTION SIGNAL</b></sub>
+  <strong>01 / CONTRIBUTION SIGNAL</strong>
 </p>
 
 <p align="center">
@@ -311,7 +311,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 <br>
 
 <p align="center">
-  <sub><b>02 / CONTRIBUTION ACTIVITY</b></sub>
+  <strong><b>02 / CONTRIBUTION ACTIVITY</b></strong>
 </p>
 
 <p align="center">
@@ -325,7 +325,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 <br>
 
 <p align="center">
-  <sub><b>03 / GITHUB MILESTONES</b></sub>
+   <strong<b>03 / GITHUB MILESTONES</b></strong>
 </p>
 
 <p align="center">

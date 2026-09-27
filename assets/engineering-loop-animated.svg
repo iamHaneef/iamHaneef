@@ -1,0 +1,324 @@
+<svg width="900" height="620" viewBox="0 0 900 620"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <filter id="glowRed">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="glowGold">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <marker id="arrowRed" markerWidth="8" markerHeight="8"
+          refX="6" refY="3" orient="auto">
+    <path d="M0,0 L6,3 L0,6 Z" fill="#E63946"/>
+  </marker>
+
+  <marker id="arrowGold" markerWidth="8" markerHeight="8"
+          refX="6" refY="3" orient="auto">
+    <path d="M0,0 L6,3 L0,6 Z" fill="#F4C430"/>
+  </marker>
+
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#15191E"/>
+    <stop offset="100%" stop-color="#0D1014"/>
+  </linearGradient>
+
+  <linearGradient id="goldLine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#E63946"/>
+    <stop offset="50%" stop-color="#F4C430"/>
+    <stop offset="100%" stop-color="#E63946"/>
+  </linearGradient>
+</defs>
+
+<!-- Background -->
+<rect width="900" height="620" fill="#0B0D10"/>
+
+<!-- Main panel -->
+<rect x="35" y="25" width="830" height="570" rx="18"
+      fill="url(#panel)" stroke="#303740" stroke-width="1.5"/>
+
+<!-- Technical grid -->
+<g opacity="0.11" stroke="#8A949E" stroke-width="0.5">
+  <path d="M65 90 H835"/>
+  <path d="M65 140 H835"/>
+  <path d="M65 190 H835"/>
+  <path d="M65 240 H835"/>
+  <path d="M65 290 H835"/>
+  <path d="M65 340 H835"/>
+  <path d="M65 390 H835"/>
+  <path d="M65 440 H835"/>
+  <path d="M65 490 H835"/>
+  <path d="M65 540 H835"/>
+</g>
+
+<!-- System scan -->
+<rect x="66" y="90" width="768" height="2" fill="#E63946" opacity="0.08">
+  <animate attributeName="y" values="92;568;92" dur="6s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Header -->
+<text x="65" y="65"
+      fill="#8A949E"
+      font-family="monospace"
+      font-size="11"
+      letter-spacing="3">
+  HANEEF ENGINEERING LOOP // SYSTEM 01
+</text>
+
+<circle cx="810" cy="58" r="5"
+        fill="#F4C430" filter="url(#glowGold)">
+  <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+  <animate attributeName="r" values="4;6;4" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+
+<text x="825" y="62"
+      fill="#F4C430"
+      font-family="monospace"
+      font-size="10"
+      letter-spacing="1">
+  ACTIVE
+</text>
+
+<!-- TOP ACCENT -->
+<rect x="65" y="78" width="770" height="2" fill="url(#goldLine)"/>
+<rect x="65" y="78" width="110" height="2" fill="#E8EDF2" opacity="0.75">
+  <animate attributeName="x" values="65;725;65" dur="4.5s" repeatCount="indefinite"/>
+</rect>
+
+<!-- PROBLEM -->
+<rect x="325" y="95" width="250" height="58" rx="9"
+      fill="#15191E" stroke="#E63946" stroke-width="1.5"/>
+<rect x="325" y="95" width="250" height="58" rx="9"
+      fill="none" stroke="#E63946" stroke-width="1" opacity="0">
+  <animate attributeName="opacity" values="0;0.35;0" dur="3.6s" begin="0.72s" repeatCount="indefinite"/>
+</rect>
+
+<text x="450" y="120" text-anchor="middle"
+      fill="#E63946" font-family="monospace"
+      font-size="11" letter-spacing="2">
+  01 // PROBLEM
+</text>
+
+<text x="450" y="139" text-anchor="middle"
+      fill="#E8EDF2" font-family="monospace" font-size="12">
+  UNDERSTAND THE NEED
+</text>
+
+<path d="M450 153 V180"
+      stroke="#E63946" stroke-width="2"
+      marker-end="url(#arrowRed)"/>
+
+<!-- ARCHITECTURE -->
+<rect x="275" y="190" width="350" height="60" rx="9"
+      fill="#15191E" stroke="#F4C430" stroke-width="1.5"/>
+<rect x="275" y="190" width="350" height="60" rx="9"
+      fill="none" stroke="#F4C430" stroke-width="1" opacity="0">
+  <animate attributeName="opacity" values="0;0.35;0" dur="3.6s" begin="0.18s" repeatCount="indefinite"/>
+</rect>
+
+<text x="450" y="216" text-anchor="middle"
+      fill="#F4C430" font-family="monospace"
+      font-size="11" letter-spacing="2">
+  02 // ARCHITECTURE
+</text>
+
+<text x="450" y="236" text-anchor="middle"
+      fill="#E8EDF2" font-family="monospace" font-size="12">
+  DESIGN BEFORE FEATURES
+</text>
+
+<!-- Branches -->
+<path d="M450 250 L185 295"
+      stroke="#F4C430" stroke-width="1.5" fill="none"
+      marker-end="url(#arrowGold)"/>
+
+<path d="M450 250 V295"
+      stroke="#F4C430" stroke-width="1.5" fill="none"
+      marker-end="url(#arrowGold)"/>
+
+<path d="M450 250 L715 295"
+      stroke="#F4C430" stroke-width="1.5" fill="none"
+      marker-end="url(#arrowGold)"/>
+
+<!-- DATA -->
+<rect x="85" y="305" width="200" height="70" rx="9"
+      fill="#15191E" stroke="#303740"/>
+
+<text x="185" y="335" text-anchor="middle"
+      fill="#E8EDF2" font-family="monospace"
+      font-size="13" font-weight="bold">
+  DATA
+</text>
+
+<text x="185" y="356" text-anchor="middle"
+      fill="#8A949E" font-family="monospace" font-size="10">
+  FLOW • STORAGE
+</text>
+
+<!-- RELIABILITY -->
+<rect x="350" y="305" width="200" height="70" rx="9"
+      fill="#15191E" stroke="#303740"/>
+
+<text x="450" y="335" text-anchor="middle"
+      fill="#E8EDF2" font-family="monospace"
+      font-size="13" font-weight="bold">
+  RELIABILITY
+</text>
+
+<text x="450" y="356" text-anchor="middle"
+      fill="#8A949E" font-family="monospace" font-size="10">
+  SECURITY • EDGE CASES
+</text>
+
+<!-- AUTOMATION -->
+<rect x="615" y="305" width="200" height="70" rx="9"
+      fill="#15191E" stroke="#303740"/>
+
+<text x="715" y="335" text-anchor="middle"
+      fill="#E8EDF2" font-family="monospace"
+      font-size="13" font-weight="bold">
+  AUTOMATION
+</text>
+
+<text x="715" y="356" text-anchor="middle"
+      fill="#8A949E" font-family="monospace" font-size="10">
+  WORKFLOW • AI
+</text>
+
+<!-- Converging paths -->
+<path d="M185 375 L450 420"
+      stroke="#E63946" stroke-width="1.5" fill="none"
+      marker-end="url(#arrowRed)"/>
+
+<path d="M450 375 V420"
+      stroke="#E63946" stroke-width="1.5" fill="none"
+      marker-end="url(#arrowRed)"/>
+
+<path d="M715 375 L450 420"
+      stroke="#E63946" stroke-width="1.5" fill="none"
+      marker-end="url(#arrowRed)"/>
+
+<!-- BUILD -->
+<rect x="325" y="430" width="250" height="58" rx="9"
+      fill="#15191E" stroke="#E63946" stroke-width="1.5"/>
+<rect x="325" y="430" width="250" height="58" rx="9"
+      fill="none" stroke="#E63946" stroke-width="1" opacity="0">
+  <animate attributeName="opacity" values="0;0.35;0" dur="3.6s" begin="0.54s" repeatCount="indefinite"/>
+</rect>
+
+<text x="450" y="455" text-anchor="middle"
+      fill="#E63946" font-family="monospace"
+      font-size="11" letter-spacing="2">
+  03 // BUILD
+</text>
+
+<text x="450" y="475" text-anchor="middle"
+      fill="#E8EDF2" font-family="monospace" font-size="12">
+  TURN IDEAS INTO SYSTEMS
+</text>
+
+<path d="M450 488 V515"
+      stroke="#E63946" stroke-width="2"
+      marker-end="url(#arrowRed)"/>
+
+<!-- ITERATE -->
+<rect x="325" y="525" width="250" height="48" rx="9"
+      fill="#15191E" stroke="#F4C430" stroke-width="1.5"/>
+<rect x="325" y="525" width="250" height="48" rx="9"
+      fill="none" stroke="#F4C430" stroke-width="1" opacity="0">
+  <animate attributeName="opacity" values="0;0.35;0" dur="3.6s" begin="0.00s" repeatCount="indefinite"/>
+</rect>
+
+<text x="450" y="545" text-anchor="middle"
+      fill="#F4C430" font-family="monospace"
+      font-size="12" letter-spacing="2">
+  04 // ITERATE
+</text>
+
+<text x="450" y="561" text-anchor="middle"
+      fill="#8A949E" font-family="monospace" font-size="9">
+  DEBUG • IMPROVE • REPEAT
+</text>
+
+<!-- Loop -->
+<path d="M575 550
+         C650 550 675 510 650 470
+         C635 445 610 435 575 435"
+      fill="none" stroke="#F4C430"
+      stroke-width="1.5" stroke-dasharray="5 5">
+  <animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite"/>
+</path>
+
+<text x="672" y="480"
+      fill="#F4C430"
+      font-family="monospace"
+      font-size="22"
+      filter="url(#glowGold)">
+  ↺
+</text>
+
+
+<!-- Animated system signals -->
+<circle r="4" fill="#E63946" filter="url(#glowRed)">
+  <animateMotion dur="2.2s" repeatCount="indefinite" path="M450 153 V180"/>
+</circle>
+
+<circle r="3.5" fill="#F4C430" filter="url(#glowGold)">
+  <animateMotion dur="2.8s" repeatCount="indefinite" path="M450 250 L185 295"/>
+</circle>
+<circle r="3.5" fill="#F4C430" filter="url(#glowGold)">
+  <animateMotion dur="2.5s" repeatCount="indefinite" path="M450 250 V295"/>
+</circle>
+<circle r="3.5" fill="#F4C430" filter="url(#glowGold)">
+  <animateMotion dur="2.8s" repeatCount="indefinite" path="M450 250 L715 295"/>
+</circle>
+
+<circle r="4" fill="#E63946" filter="url(#glowRed)">
+  <animateMotion dur="2.8s" repeatCount="indefinite" path="M185 375 L450 420"/>
+</circle>
+<circle r="4" fill="#E63946" filter="url(#glowRed)">
+  <animateMotion dur="2.5s" repeatCount="indefinite" path="M450 375 V420"/>
+</circle>
+<circle r="4" fill="#E63946" filter="url(#glowRed)">
+  <animateMotion dur="2.8s" repeatCount="indefinite" path="M715 375 L450 420"/>
+</circle>
+
+<circle r="4" fill="#E63946" filter="url(#glowRed)">
+  <animateMotion dur="2.2s" repeatCount="indefinite" path="M450 488 V515"/>
+</circle>
+
+<!-- Loop signal -->
+<circle r="4" fill="#F4C430" filter="url(#glowGold)">
+  <animateMotion dur="3.2s" repeatCount="indefinite" path="M575 550 C650 550 675 510 650 470 C635 445 610 435 575 435"/>
+</circle>
+
+<!-- Footer -->
+<text x="65" y="580"
+      fill="#8A949E"
+      font-family="monospace"
+      font-size="8"
+      letter-spacing="2">
+  PROBLEM → DESIGN → BUILD → ITERATE
+</text>
+
+<text x="835" y="580"
+      text-anchor="end"
+      fill="#E63946"
+      font-family="monospace"
+      font-size="8"
+      letter-spacing="2">
+  HNF // 001
+</text>
+
+</svg>

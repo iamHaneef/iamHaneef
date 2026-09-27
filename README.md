@@ -271,11 +271,11 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 ---
 
-## 📈 Development Evolution
+# 📈 Development Evolution
 
 <p align="center">
   <img
-    src="./assets/build-evolution-final.svg"
+    src="./assets/development-evolution.svg"
     width="100%"
     alt="Haneef Development Evolution"
   />

@@ -297,6 +297,11 @@ I enjoy understanding how the pieces connect, then putting them together into so
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=iamHaneef&theme=github_dark&hide_border=true&cache_seconds=86400" alt="iamHaneef's GitHub Streak" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=iamHaneef&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
@@ -305,17 +310,15 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 
 
----
+<!-- ---
 
 # 🐍 The Snake Is Hungry...
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 <p align="center">
   <i>Feeding the snake, one contribution at a time.</i>
-</p>
+</p>-->
 
 ---
 

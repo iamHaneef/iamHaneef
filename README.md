@@ -60,20 +60,39 @@
 
 # 👨‍💻 About Me
 
-I'm a Full Stack Developer focused on building practical software that solves real problems.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-My journey started with frontend development and gradually expanded into backend engineering, databases, cloud services, real-time systems, and AI-powered applications.
+### Building beyond the interface
 
-I enjoy working across the entire application stack — from designing responsive interfaces and REST APIs to implementing authentication, database architecture, real-time communication, workflow automation, and deployment.
+I'm a developer who likes turning ideas into **working systems** — not stopping at the interface.
+
+My journey started with frontend development and expanded into **backend engineering, databases, real-time systems, AI applications, workflow automation, and deployment**.
+
+I enjoy understanding how the pieces connect, then putting them together into something useful, maintainable, and real.
 
 ### What I care about
 
-- 🏗️ Clean and maintainable architecture
-- 🔐 Secure authentication and authorization
-- ⚡ Responsive and performant applications
-- 🤖 Practical AI integrations
-- ☁️ Cloud-based development and deployment
-- 🧩 Solving real-world problems through engineering
+- 🏗️ **Clean architecture** — systems that remain understandable as they grow
+- 🔐 **Reliable foundations** — authentication, data, APIs, and application logic
+- 🤖 **Practical AI** — using AI where it genuinely adds value
+- ⚙️ **Automation** — turning repetitive work into useful workflows
+- ⚡ **Real-world building** — ideas are better when they become working software
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img src="./assets/Ice_bear.gif" width="100%" alt="Ice Bear working at a computer" />
+
+<br><br>
+
+<sub><b>BUILD • AUTOMATE • SHIP</b></sub>
+
+</td>
+</tr>
+</table>
 
 ---
 # ⚡ Featured Projects

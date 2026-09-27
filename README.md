@@ -283,29 +283,82 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 ---
 
-# 📊 GitHub Stats & Trophies
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamHaneef&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamHaneef&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED" height="170" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamHaneef&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-</p> -->
+# 📡 GitHub Intelligence
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamHaneef&theme=github_dark&hide_border=true&cache_seconds=86400" alt="iamHaneef's GitHub Streak" width="49%" />
+  <strong>HNF // GITHUB TELEMETRY</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://img.shields.io/badge/●_LIVE-00E676?style=flat-square&labelColor=15191E"
+    alt="Live"
+  />
 </p>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<sub><b>01 // CONTRIBUTION SIGNAL</b></sub>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=iamHaneef&theme=github_dark&hide_border=true&cache_seconds=86400"
+  alt="iamHaneef's GitHub Streak"
+  width="90%"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<sub><b>02 // CONTRIBUTION ACTIVITY</b></sub>
+
+<br><br>
+
+<img
+  src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg"
+  alt="iamHaneef's GitHub contribution activity"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<sub><b>03 // GITHUB MILESTONES</b></sub>
+
+<br><br>
+
+<img
+  src="https://trophy.ryglcloud.net/?username=iamHaneef&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
+  alt="iamHaneef's GitHub Trophies"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/output/github-contribution-grid-snake-dark.svg" />
+  <sub><b>CODE • CREATE • COMMIT • REPEAT</b></sub>
 </p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=iamHaneef&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
-</p>
-
 
 
 

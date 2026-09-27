@@ -271,31 +271,15 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 ---
 
-# 📈 My Development Journey
+## 📈 Development Evolution
 
-```text
-Frontend Development
-        ↓
-React & Modern Web Applications
-        ↓
-Firebase & Real-Time Systems
-        ↓
-Node.js & Express
-        ↓
-MongoDB & Full-Stack Architecture
-        ↓
-AI Applications & Workflow Automation
-        ↓
-Java Backend Development
-        ↓
-Spring Boot
-        ↓
-System Design & Scalable Architecture
-```
-
-The goal isn't simply to collect technologies.
-
-The goal is to understand how the pieces work together to build reliable software.
+<p align="center">
+  <img
+    src="./assets/build-evolution-final.svg"
+    width="100%"
+    alt="Haneef Development Evolution"
+  />
+</p>
 
 ---
 

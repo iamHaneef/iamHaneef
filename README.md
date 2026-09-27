@@ -324,11 +324,11 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
    <strong<b>03 / GITHUB MILESTONES</b></strong>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://trophy.ryglcloud.net/?username=iamHaneef&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
     alt="iamHaneef's GitHub Trophies"
@@ -336,11 +336,11 @@ I enjoy understanding how the pieces connect, then putting them together into so
   />
 </p>
 
-<br>
+<br> -->
 
-<p align="center">
+<!-- <p align="center">
   <sub><b>CODE • CREATE • COMMIT • REPEAT</b></sub>
-</p>
+</p> -->
 
 
 

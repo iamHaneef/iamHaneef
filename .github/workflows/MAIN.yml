@@ -25,6 +25,7 @@ jobs:
 
       - name: Slow down Snake animation
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           sed -i 's/29100ms/45000ms/g' dist/github-contribution-grid-snake-dark.svg
           sed -i 's/29100ms/45000ms/g' dist/github-contribution-grid-snake.svg
 

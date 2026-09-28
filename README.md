@@ -18,7 +18,7 @@
 
 ---
 
-# 📡 Developer Telemetry
+# 🛰️ Developer Telemetry
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
@@ -27,7 +27,7 @@
 
 ---
 
-# 🧩 Who Am I ?
+# 🧬 Who Am I ?
 
 <table>
 <tr>
@@ -172,7 +172,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 ---
 
-# 🛠️ Technical Stack
+# 🧰 Technology Matrix
 
 ### 💻 Languages
 
@@ -240,7 +240,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 ---
 
-# 📈 Development Evolution
+# ⟳ Evolution Log
 
 <p align="center">
   <img
@@ -252,7 +252,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 ---
 
-# 📡 GitHub Telemetry
+# 📊 GitHub Telemetry
 
 <p align="center">
   <strong>HNF // GITHUB ACTIVITY</strong>
@@ -295,7 +295,7 @@ I enjoy understanding how the pieces connect, then putting them together into so
 
 ---
 
-# 📫 Get in Touch
+# 📡 Communication Uplink
 
 <br>
 

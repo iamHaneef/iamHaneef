@@ -26,7 +26,7 @@
 
 ---
 
-# 🧬 Who Am I a ?
+# 🧬 Who Am I ?
 
 <table>
 <tr>

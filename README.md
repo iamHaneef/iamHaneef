@@ -1,5 +1,4 @@
 ---
-hi
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Wake+up%2C+Daddy%27s+Home&textBg=false&fontSize=47&fontAlign=50&fontAlignY=34&rotate=0&strokeWidth=0&desc=Full+Stack+Developer+%E2%80%A2+Automation+Engineer+%E2%80%A2+Product+Builder&descSize=24&descAlign=50&descAlignY=57" width="100%"/>
 </div>

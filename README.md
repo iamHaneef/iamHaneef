@@ -27,7 +27,7 @@
 
 ---
 
-# 🧬 Who Am I ?
+# 🧬 Who Am I a ?
 
 <table>
 <tr>
@@ -37,7 +37,7 @@
 
 I'm a developer who likes turning ideas into **working systems** — not stopping at the interface.
 
-My journey started with frontend development and expanded into **backend engineering, databases, real-time systems, AI applications, workflow automation, and deployment**.
+My journey started with frontend development and expanded into **backend engineering, databases, real-time systems, AI applications, workflow automation, and deployment**
 
 I enjoy understanding how the pieces connect, then putting them together into something useful, maintainable, and real.
 

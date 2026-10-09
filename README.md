@@ -34,7 +34,7 @@
 
 ### Building beyond the interface
 
-I'm a developer who likes turning ideas into **working systems** — not stopping at the interface
+I'm a developer who likes turning ideas into **working systems** — not stopping at the interface.
 
 My journey started with frontend development and expanded into **backend engineering, databases, real-time systems, AI applications, workflow automation, and deployment**
 

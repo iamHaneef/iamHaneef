@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/main/assets/haneef-dev-system-electric.svg"
+    src="https://raw.githubusercontent.com/iamHaneef/iamHaneef/main/assets/haneef-dev-system-electric-updated.svg"
     alt="Haneef Developer System"
     width="100%"
   />
